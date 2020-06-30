@@ -40,7 +40,7 @@ async function refHandler(event) {
 				let color = chartColors.pop();
 				datasets[arch] = {
 					label: arch,
-					backgroundColor: color,
+					backgroundColor: Chart.helpers.color(color).alpha(0.5).rgbString(),
 					borderColor: color,
 					data: []
 				};
