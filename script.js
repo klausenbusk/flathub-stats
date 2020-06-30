@@ -40,8 +40,6 @@ async function refHandler(event) {
 				let color = chartColors.pop();
 				datasets[arch] = {
 					label: arch,
-//					fill: false,
-//					cubicInterpolationMode: "monotone",
 					backgroundColor: Chart.helpers.color(color).alpha(0.5).rgbString(),
 					borderColor: color,
 					data: []
@@ -50,9 +48,6 @@ async function refHandler(event) {
 			let dataset = datasets[arch];
 			// TODO: Delta downloads
 			// https://github.com/flathub/flathub/issues/177#issuecomment-650122279
-			if (dataPoint.arches[arch][0] > 50) {
-				continue;
-			}
 			dataset.data.push({
 				x: new Date(dataPoint.date),
 				y: dataPoint.arches[arch][0]
