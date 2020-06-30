@@ -4,7 +4,7 @@ import subprocess
 import json
 import shutil
 
-if subprocess.call(["wget", "--execute", "robots=off", "--recursive", "--no-host-directories", "--no-parent", "--accept", "*.json", "https://flathub.org/stats/"]) != 0:
+if subprocess.call(["wget", "--execute", "robots=off", "--recursive", "--no-host-directories", "--no-parent", "--reject-regex", "backup", "--accept", "*.json", "https://flathub.org/stats/"]) != 0:
     exit(1)
 
 files = []
