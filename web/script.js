@@ -28,17 +28,19 @@ function initChart() {
 
 function updateBasicStats() {
 	let total = 0;
-	let n = 0;
 	let average = 0;
+	let first = min;
 	chart.data.datasets.forEach((dataset) => {
 		dataset.data.forEach((dataPoint) => {
+			if (!min && (!first || dataPoint.y < first)) {
+				first = dataPoint.y;
+			}
 			if (!min || min <= dataPoint.x) {
 				total += dataPoint.y;
-				n++;
 			}
 		})
 	});
-	average = total / n;
+	average = total / Math.round(((new Date()) - min) / (24*60*60*1000));
 	document.getElementById("basic-stats").textContent = `Total: ${total} downloads | Average: ${average.toFixed(2)} downloads per day`;
 }
 
