@@ -1,5 +1,7 @@
 let chart;
 let refs = new Set();
+let stats;
+let downloadType = "installs+updates";
 let min;
 
 function initChart() {
@@ -40,15 +42,7 @@ function updateBasicStats() {
 	document.getElementById("basic-stats").textContent = `Total: ${total} downloads | Average: ${average.toFixed(2)} downloads per day`;
 }
 
-async function refHandler(event) {
-	let ref = event.target.value;
-	if (!refs.has(ref)) {
-		return;
-	}
-	let response = await fetch(`./data/${ref.replace("/", "_")}.json`);
-	let json = await response.json();
-
-
+function updateDatasets() {
 	let chartColors = [
 		"rgb(255, 99, 132)", // red
 		"rgb(255, 159, 64)", // orange
@@ -59,7 +53,7 @@ async function refHandler(event) {
 	];
 
 	let datasets = {};
-	for (let dataPoint of json.stats) {
+	for (let dataPoint of stats) {
 		for (let arch of Object.keys(dataPoint.arches)) {
 			if (!(arch in datasets)) {
 				let color = chartColors.pop();
@@ -70,18 +64,42 @@ async function refHandler(event) {
 					data: []
 				};
 			}
+			let downloads = 0;
+			// Upstream logic: https://github.com/flathub/flathub-stats/blob/7711d11dd8224cd9a6655d3eaac97c9ae2ef46ea/update-stats.py#L23
+			switch (downloadType) {
+				case "installs+updates":
+					downloads = dataPoint.arches[arch][0];
+					break;
+				case "installs":
+					downloads = dataPoint.arches[arch][0] - dataPoint.arches[arch][1];
+					break;
+				case "updates":
+					downloads = dataPoint.arches[arch][1];
+					break;
+			}
+
 			let dataset = datasets[arch];
-			// TODO: Delta downloads
-			// https://github.com/flathub/flathub/issues/177#issuecomment-650122279
 			dataset.data.push({
 				x: new Date(dataPoint.date),
-				y: dataPoint.arches[arch][0]
+				y: downloads
 			});
 		}
 	}
 	chart.data.datasets = Object.values(datasets);
 	chart.update();
 	updateBasicStats();
+}
+
+async function refHandler(event) {
+	let ref = event.target.value;
+	if (!refs.has(ref)) {
+		return;
+	}
+	let response = await fetch(`./data/${ref.replace("/", "_")}.json`);
+	let json = await response.json();
+
+	stats = json.stats;
+	updateDatasets();
 }
 
 function intervalHandler() {
@@ -96,6 +114,11 @@ function intervalHandler() {
 	}
 	chart.update();
 	updateBasicStats();
+}
+
+function downloadTypeHandler() {
+	downloadType = event.target.value;
+	updateDatasets();
 }
 
 async function init() {
@@ -119,6 +142,9 @@ async function init() {
 
 	let intervalSelectElement = document.getElementById("interval-select");
 	intervalSelectElement.addEventListener("change", intervalHandler);
+
+	let downloadTypeElement = document.getElementById("downloadType");
+	downloadTypeElement.addEventListener("change", downloadTypeHandler);
 }
 
 window.addEventListener("DOMContentLoaded", init);
