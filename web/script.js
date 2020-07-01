@@ -29,18 +29,18 @@ function initChart() {
 function updateBasicStats() {
 	let total = 0;
 	let average = 0;
-	let first = min;
+	let first = null;
 	chart.data.datasets.forEach((dataset) => {
 		dataset.data.forEach((dataPoint) => {
-			if (!min && (!first || dataPoint.y < first)) {
-				first = dataPoint.y;
-			}
 			if (!min || min <= dataPoint.x) {
 				total += dataPoint.y;
+				if (!first || dataPoint.x < first) {
+					first = dataPoint.x;
+				}
 			}
 		})
 	});
-	average = total / Math.round(((new Date()) - min) / (24*60*60*1000));
+	average = total / Math.round(((new Date()) - first) / (24*60*60*1000));
 	document.getElementById("basic-stats").textContent = `Total: ${total} downloads | Average: ${average.toFixed(2)} downloads per day`;
 }
 
