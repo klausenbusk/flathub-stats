@@ -2,7 +2,7 @@ let chart;
 let refs = new Set();
 let stats;
 let downloadType = "installs+updates";
-let min;
+let min = null;
 
 function initChart() {
 	let ctx = document.getElementById("chart").getContext("2d");
