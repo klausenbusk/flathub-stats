@@ -14,6 +14,10 @@ function initChart() {
 					type: "time",
 					ticks: {}
 				}]
+			},
+			tooltips: {
+				mode: "x",
+				intersect: false
 			}
 		}
 	});
