@@ -1,4 +1,5 @@
 let chart;
+let refs = new Set();
 
 function initChart() {
 	let ctx = document.getElementById("chart").getContext("2d");
@@ -20,6 +21,9 @@ function initChart() {
 
 async function refHandler(event) {
 	let ref = event.target.value;
+	if (!refs.has(ref)) {
+		return;
+	}
 	let response = await fetch(`./data/${ref.replace("/", "_")}.json`);
 	let json = await response.json();
 
@@ -74,18 +78,20 @@ async function init() {
 	initChart();
 
 	let response = await fetch("./data/refs.json");
-	let json = await response.json()
-	let refSelectElement = document.getElementById("ref-select");
+	let json = await response.json();
+	json.forEach(ref => refs.add(ref));
+	let refsElement = document.getElementById("refs");
+	let refElement = document.getElementById("ref");
 
-	for (let ref of json) {
+	for (let ref of refs.keys()) {
 		let option = document.createElement("option");
-		option.text = ref;
-		refSelectElement.add(option);
+		option.value = ref;
+		refsElement.append(option);
 	}
+	refElement.value = refsElement.childNodes[0].value;
 
-	refSelectElement.addEventListener("change", refHandler);
-	refSelectElement.dispatchEvent(new Event("change"));
-
+	refElement.addEventListener("change", refHandler);
+	refElement.dispatchEvent(new Event("change"));
 
 	let intervalSelectElement = document.getElementById("interval-select");
 	intervalSelectElement.addEventListener("change", intervalHandler);
