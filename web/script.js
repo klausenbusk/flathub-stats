@@ -1,5 +1,6 @@
 let chart;
 let refs = new Set();
+let min;
 
 function initChart() {
 	let ctx = document.getElementById("chart").getContext("2d");
@@ -21,6 +22,22 @@ function initChart() {
 			}
 		}
 	});
+}
+
+function updateBasicStats() {
+	let total = 0;
+	let n = 0;
+	let average = 0;
+	chart.data.datasets.forEach((dataset) => {
+		dataset.data.forEach((dataPoint) => {
+			if (!min || min <= dataPoint.x) {
+				total += dataPoint.y;
+				n++;
+			}
+		})
+	});
+	average = total / n;
+	document.getElementById("basic-stats").textContent = `Total: ${total} downloads | Average: ${average.toFixed(2)} downloads per day`;
 }
 
 async function refHandler(event) {
@@ -64,18 +81,21 @@ async function refHandler(event) {
 	}
 	chart.data.datasets = Object.values(datasets);
 	chart.update();
+	updateBasicStats();
 }
 
 function intervalHandler() {
 	let interval = event.target.value;
 	if (interval === "infinity") {
 		delete chart.options.scales.xAxes[0].ticks.min;
+		min = null;
 	} else {
-		let d = new Date();
-		d.setDate(d.getDate() - interval);
-		chart.options.scales.xAxes[0].ticks.min = d;
+		min = new Date();
+		min.setDate(min.getDate() - interval);
+		chart.options.scales.xAxes[0].ticks.min = min;
 	}
 	chart.update();
+	updateBasicStats();
 }
 
 async function init() {
