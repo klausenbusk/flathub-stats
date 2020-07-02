@@ -13,6 +13,8 @@ refs = {}
 for (dirpath, _, filenames) in os.walk("stats"):
     files.extend(os.path.join(dirpath, filename) for filename in filenames)
 files.sort()
+# The latest stats aren't very accurate, please see: https://github.com/klausenbusk/flathub-stats/issues/5
+del files[-1]
 
 for f in files:
     print(f)
