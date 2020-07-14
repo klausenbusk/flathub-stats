@@ -1,1 +1,1 @@
-{"ref": "de.uni_heidelberg.zah.GaiaSky", "stats": [{"date": "2020/07/11", "arches": {"arm": [1, 0], "x86_64": [16, 2]}}, {"date": "2020/07/12", "arches": {"x86_64": [12, 2]}}]}
+{"ref": "de.uni_heidelberg.zah.GaiaSky", "stats": [{"date": "2020/07/11", "arches": {"arm": [1, 0], "x86_64": [16, 2]}}, {"date": "2020/07/12", "arches": {"x86_64": [12, 2]}}, {"date": "2020/07/13", "arches": {"x86_64": [1, 1]}}]}
