@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.mono6/19.08", "stats": [{"date": "2020/08/10", "arches": {"aarch64": [1, 0], "x86_64": [4, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.mono6/19.08", "stats": [{"date": "2020/08/10", "arches": {"aarch64": [1, 0], "x86_64": [4, 0]}}, {"date": "2020/08/11", "arches": {"x86_64": [8, 2]}}]}
