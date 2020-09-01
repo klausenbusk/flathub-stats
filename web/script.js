@@ -16,6 +16,9 @@ function initChart() {
 				xAxes: [{
 					type: "time",
 					ticks: {}
+				}],
+				yAxes: [{
+					ticks: { min: 0 }
 				}]
 			},
 			tooltips: {
