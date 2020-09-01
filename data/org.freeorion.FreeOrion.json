@@ -1,1 +1,1 @@
-{"ref": "org.freeorion.FreeOrion", "stats": [{"date": "2020/08/28", "arches": {"x86_64": [6, 1]}}, {"date": "2020/08/29", "arches": {"x86_64": [10, 0]}}, {"date": "2020/08/30", "arches": {"x86_64": [1, 0]}}]}
+{"ref": "org.freeorion.FreeOrion", "stats": [{"date": "2020/08/28", "arches": {"x86_64": [6, 1]}}, {"date": "2020/08/29", "arches": {"x86_64": [10, 0]}}, {"date": "2020/08/30", "arches": {"x86_64": [1, 0]}}, {"date": "2020/08/31", "arches": {"x86_64": [3, 0]}}]}
