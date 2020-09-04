@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.mingw-w64/20.08", "stats": [{"date": "2020/08/31", "arches": {"x86_64": [2, 0]}}, {"date": "2020/09/01", "arches": {"x86_64": [8, 1]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.mingw-w64/20.08", "stats": [{"date": "2020/08/31", "arches": {"x86_64": [2, 0]}}, {"date": "2020/09/01", "arches": {"x86_64": [8, 1]}}, {"date": "2020/09/03", "arches": {"x86_64": [1, 0]}}]}
