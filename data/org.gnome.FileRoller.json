@@ -1,1 +1,1 @@
-{"ref": "org.gnome.FileRoller", "stats": [{"date": "2020/09/11", "arches": {"x86_64": [33, 3]}}]}
+{"ref": "org.gnome.FileRoller", "stats": [{"date": "2020/09/11", "arches": {"x86_64": [33, 3]}}, {"date": "2020/09/12", "arches": {"arm": [1, 1], "x86_64": [29, 0]}}]}
