@@ -1,1 +1,1 @@
-{"ref": "org.kde.WaylandDecoration.QGnomePlatform-decoration/5.15", "stats": [{"date": "2020/09/14", "arches": {"aarch64": [9, 0], "x86_64": [12430, 104]}}]}
+{"ref": "org.kde.WaylandDecoration.QGnomePlatform-decoration/5.15", "stats": [{"date": "2020/09/14", "arches": {"aarch64": [9, 0], "x86_64": [12430, 104]}}, {"date": "2020/09/15", "arches": {"aarch64": [12, 4], "x86_64": [12017, 198]}}]}
