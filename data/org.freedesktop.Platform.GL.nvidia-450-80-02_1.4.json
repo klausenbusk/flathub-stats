@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-450-80-02/1.4", "stats": [{"date": "2020/10/01", "arches": {"i386": [2, 2], "x86_64": [103, 21]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-450-80-02/1.4", "stats": [{"date": "2020/10/01", "arches": {"i386": [2, 2], "x86_64": [103, 21]}}, {"date": "2020/10/02", "arches": {"x86_64": [84, 11]}}]}
