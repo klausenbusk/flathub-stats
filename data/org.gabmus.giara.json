@@ -1,1 +1,1 @@
-{"ref": "org.gabmus.giara", "stats": [{"date": "2020/10/12", "arches": {"aarch64": [5, 0], "x86_64": [35, 2]}}]}
+{"ref": "org.gabmus.giara", "stats": [{"date": "2020/10/12", "arches": {"aarch64": [5, 0], "x86_64": [35, 2]}}, {"date": "2020/10/13", "arches": {"aarch64": [14, 0], "x86_64": [26, 2]}}]}
