@@ -1,1 +1,1 @@
-{"ref": "io.github.gustavoperedo.VideoDownloader", "stats": [{"date": "2020/11/30", "arches": {"x86_64": [90, 11]}}]}
+{"ref": "io.github.gustavoperedo.VideoDownloader", "stats": [{"date": "2020/11/30", "arches": {"x86_64": [90, 11]}}, {"date": "2020/12/01", "arches": {"aarch64": [1, 0], "x86_64": [159, 29]}}]}
