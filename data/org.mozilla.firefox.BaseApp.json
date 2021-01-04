@@ -1,1 +1,1 @@
-{"ref": "org.mozilla.firefox.BaseApp", "stats": [{"date": "2020/12/31", "arches": {"x86_64": [4, 3]}}, {"date": "2021/01/01", "arches": {"x86_64": [2, 0]}}]}
+{"ref": "org.mozilla.firefox.BaseApp", "stats": [{"date": "2020/12/31", "arches": {"x86_64": [4, 3]}}, {"date": "2021/01/01", "arches": {"x86_64": [2, 0]}}, {"date": "2021/01/03", "arches": {"x86_64": [1, 1]}}]}
