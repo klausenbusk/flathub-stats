@@ -4,6 +4,8 @@ let stats;
 let downloadType = "installs+updates";
 let min = null;
 
+const params = new URLSearchParams(window.location.search)
+
 function initChart() {
 	let ctx = document.getElementById("chart").getContext("2d");
 	chart = new Chart(ctx, {
@@ -137,16 +139,19 @@ async function init() {
 		option.value = ref;
 		refsElement.append(option);
 	}
-	refElement.value = refsElement.childNodes[0].value;
-
+	refElement.value = params.get("id") || refsElement.childNodes[0].value;
 	refElement.addEventListener("change", refHandler);
 	refElement.dispatchEvent(new Event("change"));
 
 	let intervalSelectElement = document.getElementById("interval-select");
+	intervalSelectElement.value = params.get("interval") || "infinity";
 	intervalSelectElement.addEventListener("change", intervalHandler);
+	intervalSelectElement.dispatchEvent(new Event("change"));
 
 	let downloadTypeElement = document.getElementById("downloadType");
+	downloadTypeElement.value = params.get("dl_type") || "installs+updates";
 	downloadTypeElement.addEventListener("change", downloadTypeHandler);
+	downloadTypeElement.dispatchEvent(new Event("change"));
 }
 
 window.addEventListener("DOMContentLoaded", init);
