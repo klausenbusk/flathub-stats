@@ -1,7 +1,9 @@
 let chart;
 let refs = new Set();
 let stats;
-let downloadType = "installs+updates";
+let ref;
+let interval;
+let downloadType;
 let min = null;
 
 function initChart() {
@@ -92,20 +94,26 @@ function updateDatasets() {
 	updateBasicStats();
 }
 
+function updateURL() {
+	window.location.hash = `#ref=${ref}&interval=${interval}&downloadType=` + encodeURIComponent(downloadType);
+}
+
 async function refHandler(event) {
-	let ref = event.target.value;
-	if (!refs.has(ref)) {
+	let refEventValue = event.target.value;
+	if (!refs.has(refEventValue)) {
 		return;
 	}
+	ref = refEventValue;
 	let response = await fetch(`./data/${ref.replace("/", "_")}.json`);
 	let json = await response.json();
 
 	stats = json.stats;
 	updateDatasets();
+	updateURL();
 }
 
 function intervalHandler() {
-	let interval = event.target.value;
+	interval = event.target.value;
 	if (interval === "infinity") {
 		delete chart.options.scales.xAxes[0].ticks.min;
 		min = null;
@@ -116,11 +124,13 @@ function intervalHandler() {
 	}
 	chart.update();
 	updateBasicStats();
+	updateURL();
 }
 
 function downloadTypeHandler() {
 	downloadType = event.target.value;
 	updateDatasets();
+	updateURL();
 }
 
 async function init() {
@@ -130,23 +140,35 @@ async function init() {
 	let json = await response.json();
 	json.forEach(ref => refs.add(ref));
 	let refsElement = document.getElementById("refs");
-	let refElement = document.getElementById("ref");
 
 	for (let ref of refs.keys()) {
 		let option = document.createElement("option");
 		option.value = ref;
 		refsElement.append(option);
 	}
-	refElement.value = refsElement.childNodes[0].value;
+
+	let refElement = document.getElementById("ref");
+	let intervalSelectElement = document.getElementById("interval-select");
+	let downloadTypeElement = document.getElementById("downloadType");
+	let params = new URLSearchParams(window.location.hash.substring(1));
+
+	refElement.value = params.has("ref") ? params.get("ref") : refsElement.childNodes[0].value;
+	if (params.has("interval")) {
+		intervalSelectElement.value = params.get("interval");
+	}
+	interval = intervalSelectElement.value;
+	if (params.has("downloadType")) {
+		downloadTypeElement.value = params.get("downloadType");
+	}
+	downloadType = downloadTypeElement.value;
 
 	refElement.addEventListener("change", refHandler);
-	refElement.dispatchEvent(new Event("change"));
-
-	let intervalSelectElement = document.getElementById("interval-select");
 	intervalSelectElement.addEventListener("change", intervalHandler);
-
-	let downloadTypeElement = document.getElementById("downloadType");
 	downloadTypeElement.addEventListener("change", downloadTypeHandler);
+
+	await refHandler({target: {value: refElement.value}});
+	intervalSelectElement.dispatchEvent(new Event("change"));
+	downloadTypeElement.dispatchEvent(new Event("change"));
 }
 
 window.addEventListener("DOMContentLoaded", init);
