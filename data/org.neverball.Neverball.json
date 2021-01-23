@@ -1,1 +1,1 @@
-{"ref": "org.neverball.Neverball", "stats": [{"date": "2021/01/19", "arches": {"x86_64": [17, 3]}}, {"date": "2021/01/20", "arches": {"x86_64": [9, 3]}}, {"date": "2021/01/21", "arches": {"x86_64": [7, 0]}}]}
+{"ref": "org.neverball.Neverball", "stats": [{"date": "2021/01/19", "arches": {"x86_64": [17, 3]}}, {"date": "2021/01/20", "arches": {"x86_64": [9, 3]}}, {"date": "2021/01/21", "arches": {"x86_64": [7, 0]}}, {"date": "2021/01/22", "arches": {"aarch64": [1, 0], "x86_64": [10, 0]}}]}
