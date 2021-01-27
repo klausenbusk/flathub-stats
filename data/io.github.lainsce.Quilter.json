@@ -1,1 +1,1 @@
-{"ref": "io.github.lainsce.Quilter", "stats": [{"date": "2021/01/23", "arches": {"aarch64": [1, 0], "x86_64": [32, 1]}}, {"date": "2021/01/24", "arches": {"x86_64": [65, 24]}}, {"date": "2021/01/25", "arches": {"aarch64": [1, 1], "x86_64": [55, 29]}}]}
+{"ref": "io.github.lainsce.Quilter", "stats": [{"date": "2021/01/23", "arches": {"aarch64": [1, 0], "x86_64": [32, 1]}}, {"date": "2021/01/24", "arches": {"x86_64": [65, 24]}}, {"date": "2021/01/25", "arches": {"aarch64": [1, 1], "x86_64": [55, 29]}}, {"date": "2021/01/26", "arches": {"x86_64": [14, 5]}}]}
