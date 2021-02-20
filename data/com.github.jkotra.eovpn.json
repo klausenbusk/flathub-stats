@@ -1,1 +1,1 @@
-{"ref": "com.github.jkotra.eovpn", "stats": [{"date": "2021/02/16", "arches": {"x86_64": [8, 0]}}, {"date": "2021/02/17", "arches": {"aarch64": [1, 0], "x86_64": [44, 6]}}, {"date": "2021/02/18", "arches": {"aarch64": [1, 0], "x86_64": [47, 8]}}]}
+{"ref": "com.github.jkotra.eovpn", "stats": [{"date": "2021/02/16", "arches": {"x86_64": [8, 0]}}, {"date": "2021/02/17", "arches": {"aarch64": [1, 0], "x86_64": [44, 6]}}, {"date": "2021/02/18", "arches": {"aarch64": [1, 0], "x86_64": [47, 8]}}, {"date": "2021/02/19", "arches": {"x86_64": [47, 6]}}]}
