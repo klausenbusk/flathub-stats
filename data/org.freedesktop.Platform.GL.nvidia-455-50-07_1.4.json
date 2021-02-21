@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-455-50-07/1.4", "stats": [{"date": "2021/02/19", "arches": {"i386": [1, 0], "x86_64": [24, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-455-50-07/1.4", "stats": [{"date": "2021/02/19", "arches": {"i386": [1, 0], "x86_64": [24, 0]}}, {"date": "2021/02/20", "arches": {"x86_64": [7, 0]}}]}
