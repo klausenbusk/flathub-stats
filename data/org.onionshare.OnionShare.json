@@ -1,1 +1,1 @@
-{"ref": "org.onionshare.OnionShare", "stats": [{"date": "2021/02/23", "arches": {"x86_64": [41, 3]}}, {"date": "2021/02/24", "arches": {"aarch64": [1, 0], "x86_64": [49, 4]}}, {"date": "2021/02/25", "arches": {"x86_64": [38, 5]}}]}
+{"ref": "org.onionshare.OnionShare", "stats": [{"date": "2021/02/23", "arches": {"x86_64": [41, 3]}}, {"date": "2021/02/24", "arches": {"aarch64": [1, 0], "x86_64": [49, 4]}}, {"date": "2021/02/25", "arches": {"x86_64": [38, 5]}}, {"date": "2021/02/26", "arches": {"aarch64": [1, 0], "x86_64": [76, 6]}}]}
