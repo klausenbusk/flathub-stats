@@ -1,1 +1,1 @@
-{"ref": "org.nanuc.Axolotl", "stats": [{"date": "2021/03/14", "arches": {"aarch64": [11, 1], "x86_64": [7, 1]}}]}
+{"ref": "org.nanuc.Axolotl", "stats": [{"date": "2021/03/14", "arches": {"aarch64": [11, 1], "x86_64": [7, 1]}}, {"date": "2021/03/15", "arches": {"aarch64": [27, 2], "x86_64": [15, 2]}}]}
