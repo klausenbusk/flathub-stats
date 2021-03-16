@@ -1,11 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<title>Flathub Stats</title>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js" integrity="sha256-TQq84xX6vkwR0Qs1qH5ADkP+MvH0W+9E7TdHJsoIQiM=" crossorigin="anonymous"></script>
 <!--		https://flaviocopes.com/javascript-async-defer/-->
 		<script defer src="script.js"></script>
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="Flathub Stats">
+		<meta property="og:locale" content="en_US">
+		<meta name="description" content="Stats of flathub.org">
+		<meta property="og:description" content="Stats of flathub.org">
+		<meta property="og:url" content="https://klausenbusk.github.io/flathub-stats/">
+		<meta property="og:site_name" content="Flathub Stats">
+		<script type="application/ld+json">
+{"description":"Stats of flathub.org","@type":"WebSite","headline":"Flathub Stats","url":"https://klausenbusk.github.io/flathub-stats/","name":"Flathub Stats","@context":"https://schema.org"}</script>
 	</head>
 	<body>
 		<input autocomplete="off" list="refs" id="ref">
@@ -24,8 +33,8 @@
 		<p style="display:inline" id="basic-stats"></p>
 
 		<canvas id="chart"></canvas>
-		<a href="https://github.com/klausenbusk/flathub-stats">https://github.com/klausenbusk/flathub-stats</a>
+		<a href="https://github.com/klausenbusk/flathub-stats" target="_blank" rel="noreferrer">https://github.com/klausenbusk/flathub-stats</a>
 		<br>
-		<small>* An update is sometimes <a href="https://github.com/flathub/flathub/issues/177#issuecomment-650361779">reported as an install</a></small>
+		<small>* An update is sometimes <a href="https://github.com/flathub/flathub/issues/177#issuecomment-650361779" target="_blank" rel="noreferrer">reported as an install</a></small>
 	</body>
 </html>
