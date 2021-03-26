@@ -1,1 +1,1 @@
-{"ref": "org.gnome.Platform/40", "stats": [{"date": "2021/03/24", "arches": {"aarch64": [7, 2], "x86_64": [1010, 151]}}]}
+{"ref": "org.gnome.Platform/40", "stats": [{"date": "2021/03/24", "arches": {"aarch64": [7, 2], "x86_64": [1010, 151]}}, {"date": "2021/03/25", "arches": {"aarch64": [81, 15], "x86_64": [17252, 3280]}}]}
