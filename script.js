@@ -15,10 +15,9 @@ function initChart() {
 		// Configuration options go here
 		options: {
 			scales: {
-				xAxes: [{
-					type: "time",
-					ticks: {}
-				}]
+				x: {
+					type: "time"
+				}
 			},
 			tooltips: {
 				mode: "x",
@@ -65,6 +64,7 @@ function updateDatasets() {
 					label: arch,
 					backgroundColor: Chart.helpers.color(color).alpha(0.5).rgbString(),
 					borderColor: color,
+					fill: true,
 					data: []
 				};
 			}
@@ -115,12 +115,12 @@ async function refHandler(event) {
 function intervalHandler() {
 	interval = event.target.value;
 	if (interval === "infinity") {
-		delete chart.options.scales.xAxes[0].ticks.min;
+		delete chart.options.scales.x.min;
 		min = null;
 	} else {
 		min = new Date();
 		min.setDate(min.getDate() - interval);
-		chart.options.scales.xAxes[0].ticks.min = min;
+		chart.options.scales.x.min = min;
 	}
 	chart.update();
 	updateBasicStats();
