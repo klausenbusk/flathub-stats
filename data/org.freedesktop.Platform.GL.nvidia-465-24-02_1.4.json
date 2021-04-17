@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-465-24-02/1.4", "stats": [{"date": "2021/04/15", "arches": {"x86_64": [240, 2]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-465-24-02/1.4", "stats": [{"date": "2021/04/15", "arches": {"x86_64": [240, 2]}}, {"date": "2021/04/16", "arches": {"i386": [1, 0], "x86_64": [615, 1]}}]}
