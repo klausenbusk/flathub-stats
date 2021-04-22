@@ -1,1 +1,1 @@
-{"ref": "org.cubocore.CoreArchiver", "stats": [{"date": "2021/04/19", "arches": {"x86_64": [6, 0]}}, {"date": "2021/04/20", "arches": {"aarch64": [1, 0], "x86_64": [8, 0]}}]}
+{"ref": "org.cubocore.CoreArchiver", "stats": [{"date": "2021/04/19", "arches": {"x86_64": [6, 0]}}, {"date": "2021/04/20", "arches": {"aarch64": [1, 0], "x86_64": [8, 0]}}, {"date": "2021/04/21", "arches": {"aarch64": [2, 0], "x86_64": [14, 4]}}]}
