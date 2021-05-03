@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-465-27/1.4", "stats": [{"date": "2021/04/30", "arches": {"i386": [2, 0], "x86_64": [576, 1]}}, {"date": "2021/05/01", "arches": {"x86_64": [599, 1]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-465-27/1.4", "stats": [{"date": "2021/04/30", "arches": {"i386": [2, 0], "x86_64": [576, 1]}}, {"date": "2021/05/01", "arches": {"x86_64": [599, 1]}}, {"date": "2021/05/02", "arches": {"i386": [4, 2], "x86_64": [621, 107]}}]}
