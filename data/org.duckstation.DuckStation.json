@@ -1,1 +1,1 @@
-{"ref": "org.duckstation.DuckStation", "stats": [{"date": "2021/05/10", "arches": {"x86_64": [46, 9]}}]}
+{"ref": "org.duckstation.DuckStation", "stats": [{"date": "2021/05/10", "arches": {"x86_64": [46, 9]}}, {"date": "2021/05/11", "arches": {"aarch64": [4, 0], "x86_64": [65, 25]}}]}
