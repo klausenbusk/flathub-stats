@@ -1,1 +1,1 @@
-{"ref": "org.kde.koko", "stats": [{"date": "2021/05/18", "arches": {"x86_64": [10, 0]}}]}
+{"ref": "org.kde.koko", "stats": [{"date": "2021/05/18", "arches": {"x86_64": [10, 0]}}, {"date": "2021/05/19", "arches": {"aarch64": [2, 0], "x86_64": [8, 0]}}]}
