@@ -1,1 +1,1 @@
-{"ref": "org.kde.angelfish", "stats": [{"date": "2021/06/11", "arches": {"aarch64": [5, 0], "x86_64": [10, 1]}}, {"date": "2021/06/12", "arches": {"x86_64": [1, 0]}}]}
+{"ref": "org.kde.angelfish", "stats": [{"date": "2021/06/11", "arches": {"aarch64": [5, 0], "x86_64": [10, 1]}}, {"date": "2021/06/12", "arches": {"x86_64": [1, 0]}}, {"date": "2021/06/13", "arches": {"aarch64": [1, 0], "x86_64": [6, 0]}}]}
