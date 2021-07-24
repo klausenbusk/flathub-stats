@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-390-144/1.4", "stats": [{"date": "2021/07/22", "arches": {"i386": [80, 70], "x86_64": [2769, 1007]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-390-144/1.4", "stats": [{"date": "2021/07/22", "arches": {"i386": [80, 70], "x86_64": [2769, 1007]}}, {"date": "2021/07/23", "arches": {"i386": [23, 19], "x86_64": [1351, 400]}}]}
