@@ -1,1 +1,1 @@
-{"ref": "info.smplayer.SMPlayer", "stats": [{"date": "2021/08/23", "arches": {"x86_64": [36, 1]}}, {"date": "2021/08/24", "arches": {"x86_64": [62, 3]}}, {"date": "2021/08/25", "arches": {"aarch64": [1, 0], "x86_64": [76, 2]}}]}
+{"ref": "info.smplayer.SMPlayer", "stats": [{"date": "2021/08/23", "arches": {"x86_64": [36, 1]}}, {"date": "2021/08/24", "arches": {"x86_64": [62, 3]}}, {"date": "2021/08/25", "arches": {"aarch64": [1, 0], "x86_64": [76, 2]}}, {"date": "2021/08/26", "arches": {"x86_64": [60, 5]}}]}
