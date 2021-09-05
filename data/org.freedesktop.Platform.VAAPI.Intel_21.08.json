@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.VAAPI.Intel/21.08", "stats": [{"date": "2021/09/01", "arches": {"x86_64": [44, 2]}}, {"date": "2021/09/02", "arches": {"x86_64": [2181, 426]}}, {"date": "2021/09/03", "arches": {"x86_64": [5375, 971]}}]}
+{"ref": "org.freedesktop.Platform.VAAPI.Intel/21.08", "stats": [{"date": "2021/09/01", "arches": {"x86_64": [44, 2]}}, {"date": "2021/09/02", "arches": {"x86_64": [2181, 426]}}, {"date": "2021/09/03", "arches": {"x86_64": [5375, 971]}}, {"date": "2021/09/04", "arches": {"x86_64": [5058, 759]}}]}
