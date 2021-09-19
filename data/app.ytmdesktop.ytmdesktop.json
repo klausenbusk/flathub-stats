@@ -1,1 +1,1 @@
-{"ref": "app.ytmdesktop.ytmdesktop", "stats": [{"date": "2021/09/15", "arches": {"x86_64": [27, 1]}}, {"date": "2021/09/16", "arches": {"x86_64": [20, 1]}}, {"date": "2021/09/17", "arches": {"aarch64": [1, 0], "x86_64": [38, 3]}}]}
+{"ref": "app.ytmdesktop.ytmdesktop", "stats": [{"date": "2021/09/15", "arches": {"x86_64": [27, 1]}}, {"date": "2021/09/16", "arches": {"x86_64": [20, 1]}}, {"date": "2021/09/17", "arches": {"aarch64": [1, 0], "x86_64": [38, 3]}}, {"date": "2021/09/18", "arches": {"x86_64": [27, 0]}}]}
