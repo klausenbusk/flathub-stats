@@ -1,1 +1,1 @@
-{"ref": "org.kde.PlatformTheme.QtSNI/5.15-21.08", "stats": [{"date": "2021/09/29", "arches": {"aarch64": [3, 0], "x86_64": [5476, 28]}}, {"date": "2021/09/30", "arches": {"aarch64": [1, 0], "x86_64": [2389, 3]}}]}
+{"ref": "org.kde.PlatformTheme.QtSNI/5.15-21.08", "stats": [{"date": "2021/09/29", "arches": {"aarch64": [3, 0], "x86_64": [5476, 28]}}, {"date": "2021/09/30", "arches": {"aarch64": [1, 0], "x86_64": [2389, 3]}}, {"date": "2021/10/01", "arches": {"aarch64": [3, 0], "x86_64": [2256, 8]}}]}
