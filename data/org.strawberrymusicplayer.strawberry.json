@@ -1,1 +1,1 @@
-{"ref": "org.strawberrymusicplayer.strawberry", "stats": [{"date": "2021/10/20", "arches": {"x86_64": [14, 1]}}, {"date": "2021/10/21", "arches": {"x86_64": [20, 1]}}, {"date": "2021/10/22", "arches": {"aarch64": [2, 1], "x86_64": [45, 5]}}]}
+{"ref": "org.strawberrymusicplayer.strawberry", "stats": [{"date": "2021/10/20", "arches": {"x86_64": [14, 1]}}, {"date": "2021/10/21", "arches": {"x86_64": [20, 1]}}, {"date": "2021/10/22", "arches": {"aarch64": [2, 1], "x86_64": [45, 5]}}, {"date": "2021/10/23", "arches": {"x86_64": [50, 12]}}]}
