@@ -1,1 +1,1 @@
-{"ref": "page.codeberg.tpikonen.satellite", "stats": [{"date": "2021/11/18", "arches": {"x86_64": [1, 0]}}]}
+{"ref": "page.codeberg.tpikonen.satellite", "stats": [{"date": "2021/11/18", "arches": {"x86_64": [1, 0]}}, {"date": "2021/11/19", "arches": {"aarch64": [3, 0], "x86_64": [13, 0]}}]}
