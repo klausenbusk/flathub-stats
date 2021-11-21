@@ -1,1 +1,1 @@
-{"ref": "org.emilien.SpaceLaunch", "stats": [{"date": "2021/11/17", "arches": {"x86_64": [12, 0]}}, {"date": "2021/11/18", "arches": {"aarch64": [4, 0], "x86_64": [19, 5]}}, {"date": "2021/11/19", "arches": {"x86_64": [12, 1]}}]}
+{"ref": "org.emilien.SpaceLaunch", "stats": [{"date": "2021/11/17", "arches": {"x86_64": [12, 0]}}, {"date": "2021/11/18", "arches": {"aarch64": [4, 0], "x86_64": [19, 5]}}, {"date": "2021/11/19", "arches": {"x86_64": [12, 1]}}, {"date": "2021/11/20", "arches": {"x86_64": [9, 0]}}]}
