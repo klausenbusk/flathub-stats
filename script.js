@@ -16,7 +16,10 @@ function initChart() {
 		options: {
 			scales: {
 				x: {
-					type: "time"
+					type: "time",
+					time: {
+						minUnit: "day",
+					}
 				}
 			},
 			tooltips: {
