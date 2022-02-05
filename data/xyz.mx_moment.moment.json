@@ -1,1 +1,1 @@
-{"ref": "xyz.mx_moment.moment", "stats": [{"date": "2022/02/02", "arches": {"aarch64": [1, 0], "x86_64": [3, 0]}}, {"date": "2022/02/03", "arches": {"aarch64": [1, 0], "x86_64": [7, 0]}}]}
+{"ref": "xyz.mx_moment.moment", "stats": [{"date": "2022/02/02", "arches": {"aarch64": [1, 0], "x86_64": [3, 0]}}, {"date": "2022/02/03", "arches": {"aarch64": [1, 0], "x86_64": [7, 0]}}, {"date": "2022/02/04", "arches": {"aarch64": [1, 0], "x86_64": [6, 0]}}]}
