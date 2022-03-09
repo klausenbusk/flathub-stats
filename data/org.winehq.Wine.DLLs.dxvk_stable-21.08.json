@@ -1,1 +1,1 @@
-{"ref": "org.winehq.Wine.DLLs.dxvk/stable-21.08", "stats": [{"date": "2022/03/04", "arches": {"x86_64": [200, 8]}}, {"date": "2022/03/05", "arches": {"x86_64": [255, 3]}}, {"date": "2022/03/06", "arches": {"x86_64": [300, 94]}}]}
+{"ref": "org.winehq.Wine.DLLs.dxvk/stable-21.08", "stats": [{"date": "2022/03/04", "arches": {"x86_64": [200, 8]}}, {"date": "2022/03/05", "arches": {"x86_64": [255, 3]}}, {"date": "2022/03/06", "arches": {"x86_64": [300, 94]}}, {"date": "2022/03/07", "arches": {"x86_64": [4658, 130]}}]}
