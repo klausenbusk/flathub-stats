@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-510-68-02/1.4", "stats": [{"date": "2022/04/27", "arches": {"x86_64": [237, 1]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-510-68-02/1.4", "stats": [{"date": "2022/04/27", "arches": {"x86_64": [237, 1]}}, {"date": "2022/04/28", "arches": {"i386": [2, 0], "x86_64": [311, 1]}}]}
