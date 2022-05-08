@@ -1,1 +1,1 @@
-{"ref": "com.ranfdev.Geopard", "stats": [{"date": "2022/05/05", "arches": {"aarch64": [3, 0], "x86_64": [18, 0]}}, {"date": "2022/05/06", "arches": {"aarch64": [7, 0], "x86_64": [95, 1]}}]}
+{"ref": "com.ranfdev.Geopard", "stats": [{"date": "2022/05/05", "arches": {"aarch64": [3, 0], "x86_64": [18, 0]}}, {"date": "2022/05/06", "arches": {"aarch64": [7, 0], "x86_64": [95, 1]}}, {"date": "2022/05/07", "arches": {"aarch64": [10, 1], "x86_64": [194, 69]}}]}
