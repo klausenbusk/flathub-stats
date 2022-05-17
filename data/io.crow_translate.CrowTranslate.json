@@ -1,1 +1,1 @@
-{"ref": "io.crow_translate.CrowTranslate", "stats": [{"date": "2022/05/13", "arches": {"x86_64": [45, 1]}}, {"date": "2022/05/14", "arches": {"x86_64": [75, 9]}}, {"date": "2022/05/15", "arches": {"aarch64": [4, 0], "x86_64": [118, 13]}}]}
+{"ref": "io.crow_translate.CrowTranslate", "stats": [{"date": "2022/05/13", "arches": {"x86_64": [45, 1]}}, {"date": "2022/05/14", "arches": {"x86_64": [75, 9]}}, {"date": "2022/05/15", "arches": {"aarch64": [4, 0], "x86_64": [118, 13]}}, {"date": "2022/05/16", "arches": {"aarch64": [4, 0], "x86_64": [55, 3]}}]}
