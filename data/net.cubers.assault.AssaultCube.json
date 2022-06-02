@@ -1,1 +1,1 @@
-{"ref": "net.cubers.assault.AssaultCube", "stats": [{"date": "2022/05/30", "arches": {"x86_64": [24, 1]}}, {"date": "2022/05/31", "arches": {"x86_64": [26, 0]}}]}
+{"ref": "net.cubers.assault.AssaultCube", "stats": [{"date": "2022/05/30", "arches": {"x86_64": [24, 1]}}, {"date": "2022/05/31", "arches": {"x86_64": [26, 0]}}, {"date": "2022/06/01", "arches": {"aarch64": [4, 0], "x86_64": [19, 0]}}]}
