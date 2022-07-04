@@ -1,1 +1,1 @@
-{"ref": "org.kde.KStyle.Adwaita/6.3", "stats": [{"date": "2022/07/01", "arches": {"aarch64": [3, 0], "x86_64": [1342, 3]}}, {"date": "2022/07/02", "arches": {"aarch64": [5, 0], "x86_64": [852, 0]}}]}
+{"ref": "org.kde.KStyle.Adwaita/6.3", "stats": [{"date": "2022/07/01", "arches": {"aarch64": [3, 0], "x86_64": [1342, 3]}}, {"date": "2022/07/02", "arches": {"aarch64": [5, 0], "x86_64": [852, 0]}}, {"date": "2022/07/03", "arches": {"aarch64": [6, 0], "x86_64": [812, 5]}}]}
