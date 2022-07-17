@@ -1,1 +1,1 @@
-{"ref": "app.drey.Blurble", "stats": [{"date": "2022/07/15", "arches": {"x86_64": [122, 0]}}]}
+{"ref": "app.drey.Blurble", "stats": [{"date": "2022/07/15", "arches": {"x86_64": [122, 0]}}, {"date": "2022/07/16", "arches": {"aarch64": [4, 0], "x86_64": [102, 0]}}]}
