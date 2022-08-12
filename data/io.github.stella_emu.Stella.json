@@ -1,1 +1,1 @@
-{"ref": "io.github.stella_emu.Stella", "stats": [{"date": "2022/08/10", "arches": {"x86_64": [23, 0]}}]}
+{"ref": "io.github.stella_emu.Stella", "stats": [{"date": "2022/08/10", "arches": {"x86_64": [23, 0]}}, {"date": "2022/08/11", "arches": {"aarch64": [3, 0], "x86_64": [33, 5]}}]}
