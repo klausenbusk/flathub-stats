@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.rust-nightly/22.08", "stats": [{"date": "2022/09/03", "arches": {"x86_64": [8, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.rust-nightly/22.08", "stats": [{"date": "2022/09/03", "arches": {"x86_64": [8, 0]}}, {"date": "2022/09/04", "arches": {"aarch64": [2, 0], "x86_64": [4, 0]}}]}

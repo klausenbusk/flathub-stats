@@ -1,1 +1,1 @@
-{"ref": "io.sourceforge.trigger_rally.TriggerRally", "stats": [{"date": "2022/09/02", "arches": {"x86_64": [46, 0]}}, {"date": "2022/09/03", "arches": {"x86_64": [60, 1]}}]}
+{"ref": "io.sourceforge.trigger_rally.TriggerRally", "stats": [{"date": "2022/09/02", "arches": {"x86_64": [46, 0]}}, {"date": "2022/09/03", "arches": {"x86_64": [60, 1]}}, {"date": "2022/09/04", "arches": {"aarch64": [2, 0], "x86_64": [54, 1]}}]}
