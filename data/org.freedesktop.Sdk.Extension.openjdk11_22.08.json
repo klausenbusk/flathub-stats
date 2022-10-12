@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.openjdk11/22.08", "stats": [{"date": "2022/10/10", "arches": {"aarch64": [8, 0], "x86_64": [40, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.openjdk11/22.08", "stats": [{"date": "2022/10/10", "arches": {"aarch64": [16, 0], "x86_64": [82, 0]}}, {"date": "2022/10/11", "arches": {"x86_64": [14, 0]}}]}
