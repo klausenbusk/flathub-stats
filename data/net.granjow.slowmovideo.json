@@ -1,1 +1,1 @@
-{"ref": "net.granjow.slowmovideo", "stats": [{"date": "2022/10/13", "arches": {"x86_64": [50, 0]}}]}
+{"ref": "net.granjow.slowmovideo", "stats": [{"date": "2022/10/13", "arches": {"x86_64": [50, 0]}}, {"date": "2022/10/14", "arches": {"aarch64": [4, 0], "x86_64": [25, 2]}}]}
