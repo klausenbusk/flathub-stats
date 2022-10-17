@@ -1,1 +1,1 @@
-{"ref": "org.nickvision.tubeconverter", "stats": [{"date": "2022/10/13", "arches": {"aarch64": [4, 0], "x86_64": [162, 0]}}, {"date": "2022/10/14", "arches": {"aarch64": [5, 0], "x86_64": [201, 1]}}]}
+{"ref": "org.nickvision.tubeconverter", "stats": [{"date": "2022/10/13", "arches": {"aarch64": [4, 0], "x86_64": [162, 0]}}, {"date": "2022/10/14", "arches": {"aarch64": [5, 0], "x86_64": [201, 1]}}, {"date": "2022/10/15", "arches": {"x86_64": [300, 2]}}]}
