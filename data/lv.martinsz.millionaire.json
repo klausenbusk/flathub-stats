@@ -1,1 +1,1 @@
-{"ref": "lv.martinsz.millionaire", "stats": [{"date": "2022/11/22", "arches": {"x86_64": [73, 0]}}, {"date": "2022/11/23", "arches": {"x86_64": [51, 0]}}, {"date": "2022/11/24", "arches": {"aarch64": [4, 0], "x86_64": [52, 0]}}]}
+{"ref": "lv.martinsz.millionaire", "stats": [{"date": "2022/11/22", "arches": {"x86_64": [73, 0]}}, {"date": "2022/11/23", "arches": {"x86_64": [51, 0]}}, {"date": "2022/11/24", "arches": {"aarch64": [4, 0], "x86_64": [52, 0]}}, {"date": "2022/11/25", "arches": {"x86_64": [74, 1]}}]}
