@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.llvm15/22.08", "stats": [{"date": "2023/01/02", "arches": {"x86_64": [7, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.llvm15/22.08", "stats": [{"date": "2023/01/02", "arches": {"x86_64": [7, 0]}}, {"date": "2023/01/03", "arches": {"aarch64": [4, 0], "x86_64": [15, 3]}}]}

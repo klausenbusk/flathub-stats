@@ -1,1 +1,1 @@
-{"ref": "net.crossfireatlas.crossfire", "stats": [{"date": "2023/01/02", "arches": {"aarch64": [2, 0], "x86_64": [4, 0]}}]}
+{"ref": "net.crossfireatlas.crossfire", "stats": [{"date": "2023/01/02", "arches": {"aarch64": [2, 0], "x86_64": [4, 0]}}, {"date": "2023/01/03", "arches": {"aarch64": [2, 0], "x86_64": [16, 0]}}]}
