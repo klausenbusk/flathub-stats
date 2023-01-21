@@ -1,1 +1,1 @@
-{"ref": "org.gnome.Crosswords.PuzzleSets.oedipus/1", "stats": [{"date": "2023/01/18", "arches": {"x86_64": [180, 2]}}]}
+{"ref": "org.gnome.Crosswords.PuzzleSets.oedipus/1", "stats": [{"date": "2023/01/18", "arches": {"x86_64": [180, 2]}}, {"date": "2023/01/19", "arches": {"aarch64": [7, 0], "x86_64": [568, 1]}}]}
