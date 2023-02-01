@@ -1,1 +1,1 @@
-{"ref": "io.gitlab.stone_kingdoms.StoneKingdoms", "stats": [{"date": "2023/01/27", "arches": {"aarch64": [2, 0], "x86_64": [84, 0]}}, {"date": "2023/01/28", "arches": {"x86_64": [90, 6]}}]}
+{"ref": "io.gitlab.stone_kingdoms.StoneKingdoms", "stats": [{"date": "2023/01/27", "arches": {"aarch64": [2, 0], "x86_64": [84, 0]}}, {"date": "2023/01/28", "arches": {"x86_64": [90, 6]}}, {"date": "2023/01/29", "arches": {"aarch64": [2, 0], "x86_64": [94, 38]}}, {"date": "2023/01/30", "arches": {"aarch64": [2, 0], "x86_64": [62, 16]}}]}
