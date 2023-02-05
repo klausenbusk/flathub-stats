@@ -1,1 +1,1 @@
-{"ref": "xyz.diamondb.gtkcord4", "stats": [{"date": "2023/02/01", "arches": {"aarch64": [6, 0], "x86_64": [74, 0]}}, {"date": "2023/02/02", "arches": {"x86_64": [171, 43]}}]}
+{"ref": "xyz.diamondb.gtkcord4", "stats": [{"date": "2023/02/01", "arches": {"aarch64": [6, 0], "x86_64": [74, 0]}}, {"date": "2023/02/02", "arches": {"x86_64": [171, 43]}}, {"date": "2023/02/03", "arches": {"aarch64": [12, 1], "x86_64": [98, 8]}}]}
