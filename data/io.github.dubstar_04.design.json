@@ -1,1 +1,1 @@
-{"ref": "io.github.dubstar_04.design", "stats": [{"date": "2023/02/02", "arches": {"aarch64": [2, 0], "x86_64": [42, 0]}}, {"date": "2023/02/03", "arches": {"aarch64": [2, 0], "x86_64": [138, 18]}}]}
+{"ref": "io.github.dubstar_04.design", "stats": [{"date": "2023/02/02", "arches": {"aarch64": [2, 0], "x86_64": [42, 0]}}, {"date": "2023/02/03", "arches": {"aarch64": [2, 0], "x86_64": [138, 18]}}, {"date": "2023/02/04", "arches": {"x86_64": [125, 8]}}]}
