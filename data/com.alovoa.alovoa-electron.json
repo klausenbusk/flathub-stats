@@ -1,1 +1,1 @@
-{"ref": "com.alovoa.alovoa-electron", "stats": [{"date": "2023/02/14", "arches": {"x86_64": [11, 0]}}, {"date": "2023/02/15", "arches": {"aarch64": [2, 0], "x86_64": [31, 0]}}, {"date": "2023/02/16", "arches": {"x86_64": [31, 4]}}]}
+{"ref": "com.alovoa.alovoa-electron", "stats": [{"date": "2023/02/14", "arches": {"x86_64": [11, 0]}}, {"date": "2023/02/15", "arches": {"aarch64": [2, 0], "x86_64": [31, 0]}}, {"date": "2023/02/16", "arches": {"x86_64": [31, 4]}}, {"date": "2023/02/17", "arches": {"x86_64": [18, 0]}}]}
