@@ -1,1 +1,1 @@
-{"ref": "dev.geopjr.Tuba", "stats": [{"date": "2023/03/25", "arches": {"aarch64": [22, 1], "x86_64": [235, 15]}}]}
+{"ref": "dev.geopjr.Tuba", "stats": [{"date": "2023/03/25", "arches": {"aarch64": [22, 1], "x86_64": [235, 15]}}, {"date": "2023/03/26", "arches": {"aarch64": [48, 6], "x86_64": [536, 35]}}]}
