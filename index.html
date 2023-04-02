@@ -35,7 +35,11 @@
 		</select>
 		<p style="display:inline" id="basic-stats"></p>
 
-		<canvas id="chart"></canvas>
+		<!-- max-width is ~2:1 (chart aspect ratio) to height, so canvas doesn't get too tall -->
+		<div style="max-width: 190vh; margin: 0 auto;">
+			<canvas id="chart"></canvas>
+		</div>
+
 		<a href="https://github.com/klausenbusk/flathub-stats" target="_blank" rel="noreferrer">https://github.com/klausenbusk/flathub-stats</a>
 		<br>
 		<small>* An update is sometimes <a href="https://github.com/flathub/flathub/issues/177#issuecomment-650361779" target="_blank" rel="noreferrer">reported as an install</a></small>
