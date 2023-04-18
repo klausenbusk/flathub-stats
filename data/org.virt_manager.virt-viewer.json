@@ -1,1 +1,1 @@
-{"ref": "org.virt_manager.virt-viewer", "stats": [{"date": "2023/04/13", "arches": {"x86_64": [24, 1]}}, {"date": "2023/04/14", "arches": {"x86_64": [37, 0]}}, {"date": "2023/04/15", "arches": {"x86_64": [31, 0]}}]}
+{"ref": "org.virt_manager.virt-viewer", "stats": [{"date": "2023/04/13", "arches": {"x86_64": [24, 1]}}, {"date": "2023/04/14", "arches": {"x86_64": [37, 0]}}, {"date": "2023/04/15", "arches": {"x86_64": [31, 0]}}, {"date": "2023/04/16", "arches": {"aarch64": [2, 0], "x86_64": [30, 1]}}]}
