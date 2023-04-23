@@ -1,1 +1,1 @@
-{"ref": "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime/stable", "stats": [{"date": "2023/04/20", "arches": {"x86_64": [7, 0]}}]}
+{"ref": "org.jellyfin.JellyfinServer.Plugin.IntelComputeRuntime/stable", "stats": [{"date": "2023/04/20", "arches": {"x86_64": [7, 0]}}, {"date": "2023/04/21", "arches": {"x86_64": [4, 1]}}]}
