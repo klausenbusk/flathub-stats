@@ -92,6 +92,28 @@ function updateDatasets() {
 			});
 		}
 	}
+	// Insert additional "0" data points between non-zero data points
+	for (let arch of Object.keys(datasets)) {
+		let dataset = datasets[arch];
+		let dateInBetween = new Date(dataset.data[0].x);
+		let datasetIndex = 0;
+		// Don't show today and yesterday as 0. They might be zero because the data hasn't been updated yet.
+		const twoDaysAgo = new Date();
+		twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
+		while (dateInBetween < twoDaysAgo) {
+			// Is dateInBetween the next element in the dataset? If not, insert a new element, otherwise skip to the next date.
+			if (dataset.data.length > datasetIndex && dataset.data[datasetIndex].x.getTime() === dateInBetween.getTime()) {
+				datasetIndex += 1;
+			} else {
+				dataset.data.push({
+					x: new Date(dateInBetween),
+					y: 0
+				});
+			}
+			dateInBetween.setDate(dateInBetween.getDate() + 1);
+		}
+		dataset.data.sort((a, b) => a.x - b.x);
+	}
 	chart.data.datasets = Object.values(datasets);
 	chart.update();
 	updateBasicStats();
