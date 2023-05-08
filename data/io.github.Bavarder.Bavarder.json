@@ -1,1 +1,1 @@
-{"ref": "io.github.Bavarder.Bavarder", "stats": [{"date": "2023/05/03", "arches": {"aarch64": [22, 0], "x86_64": [1000, 2]}}, {"date": "2023/05/05", "arches": {"aarch64": [28, 7], "x86_64": [2134, 969]}}]}
+{"ref": "io.github.Bavarder.Bavarder", "stats": [{"date": "2023/05/03", "arches": {"aarch64": [22, 0], "x86_64": [1000, 2]}}, {"date": "2023/05/05", "arches": {"aarch64": [28, 7], "x86_64": [2134, 969]}}, {"date": "2023/05/06", "arches": {"aarch64": [39, 17], "x86_64": [3164, 1692]}}]}
