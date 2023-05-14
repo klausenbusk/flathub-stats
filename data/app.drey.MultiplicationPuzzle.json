@@ -1,1 +1,1 @@
-{"ref": "app.drey.MultiplicationPuzzle", "stats": [{"date": "2023/05/11", "arches": {"x86_64": [49, 2]}}]}
+{"ref": "app.drey.MultiplicationPuzzle", "stats": [{"date": "2023/05/11", "arches": {"x86_64": [49, 2]}}, {"date": "2023/05/12", "arches": {"aarch64": [4, 0], "x86_64": [91, 2]}}]}
