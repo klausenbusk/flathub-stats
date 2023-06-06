@@ -1,1 +1,1 @@
-{"ref": "org.openfodder.OpenFodder", "stats": [{"date": "2023/06/01", "arches": {"x86_64": [64, 0]}}, {"date": "2023/06/02", "arches": {"x86_64": [33, 0]}}, {"date": "2023/06/03", "arches": {"aarch64": [2, 0], "x86_64": [35, 0]}}]}
+{"ref": "org.openfodder.OpenFodder", "stats": [{"date": "2023/06/01", "arches": {"x86_64": [64, 0]}}, {"date": "2023/06/02", "arches": {"x86_64": [33, 0]}}, {"date": "2023/06/03", "arches": {"aarch64": [2, 0], "x86_64": [35, 0]}}, {"date": "2023/06/04", "arches": {"x86_64": [32, 0]}}]}
