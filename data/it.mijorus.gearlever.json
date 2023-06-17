@@ -1,1 +1,1 @@
-{"ref": "it.mijorus.gearlever", "stats": [{"date": "2023/06/13", "arches": {"x86_64": [129, 7]}}, {"date": "2023/06/14", "arches": {"aarch64": [6, 0], "x86_64": [489, 78]}}]}
+{"ref": "it.mijorus.gearlever", "stats": [{"date": "2023/06/13", "arches": {"x86_64": [129, 7]}}, {"date": "2023/06/14", "arches": {"aarch64": [6, 0], "x86_64": [489, 78]}}, {"date": "2023/06/15", "arches": {"aarch64": [11, 1], "x86_64": [632, 150]}}]}
