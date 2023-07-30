@@ -1,1 +1,1 @@
-{"ref": "dev.levz.TinyImageFinder", "stats": [{"date": "2023/07/27", "arches": {"x86_64": [32, 0]}}]}
+{"ref": "dev.levz.TinyImageFinder", "stats": [{"date": "2023/07/27", "arches": {"x86_64": [32, 0]}}, {"date": "2023/07/28", "arches": {"aarch64": [3, 0], "x86_64": [35, 0]}}]}
