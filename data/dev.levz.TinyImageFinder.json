@@ -1,1 +1,1 @@
-{"ref": "dev.levz.TinyImageFinder", "stats": [{"date": "2023/07/27", "arches": {"x86_64": [32, 0]}}, {"date": "2023/07/28", "arches": {"aarch64": [3, 0], "x86_64": [35, 0]}}, {"date": "2023/07/29", "arches": {"x86_64": [25, 2]}}]}
+{"ref": "dev.levz.TinyImageFinder", "stats": [{"date": "2023/07/27", "arches": {"x86_64": [32, 0]}}, {"date": "2023/07/28", "arches": {"aarch64": [3, 0], "x86_64": [35, 0]}}, {"date": "2023/07/29", "arches": {"x86_64": [25, 2]}}, {"date": "2023/07/30", "arches": {"aarch64": [2, 0], "x86_64": [22, 0]}}]}
