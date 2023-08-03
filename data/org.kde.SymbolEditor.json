@@ -1,1 +1,1 @@
-{"ref": "org.kde.SymbolEditor", "stats": [{"date": "2023/07/30", "arches": {"x86_64": [7, 0]}}, {"date": "2023/07/31", "arches": {"x86_64": [24, 0]}}]}
+{"ref": "org.kde.SymbolEditor", "stats": [{"date": "2023/07/30", "arches": {"x86_64": [7, 0]}}, {"date": "2023/07/31", "arches": {"x86_64": [24, 0]}}, {"date": "2023/08/01", "arches": {"aarch64": [2, 0], "x86_64": [8, 0]}}]}
