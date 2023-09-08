@@ -1,1 +1,1 @@
-{"ref": "com.pojtinger.felicitas.Multiplex", "stats": [{"date": "2023/09/04", "arches": {"x86_64": [73, 0]}}, {"date": "2023/09/05", "arches": {"aarch64": [4, 0], "x86_64": [79, 0]}}]}
+{"ref": "com.pojtinger.felicitas.Multiplex", "stats": [{"date": "2023/09/04", "arches": {"x86_64": [73, 0]}}, {"date": "2023/09/05", "arches": {"aarch64": [4, 0], "x86_64": [79, 0]}}, {"date": "2023/09/06", "arches": {"x86_64": [31, 2]}}]}
