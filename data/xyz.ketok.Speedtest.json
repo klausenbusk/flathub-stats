@@ -1,1 +1,1 @@
-{"ref": "xyz.ketok.Speedtest", "stats": [{"date": "2023/09/11", "arches": {"aarch64": [2, 0], "x86_64": [361, 30]}}]}
+{"ref": "xyz.ketok.Speedtest", "stats": [{"date": "2023/09/11", "arches": {"aarch64": [2, 0], "x86_64": [361, 30]}}, {"date": "2023/09/12", "arches": {"aarch64": [14, 0], "x86_64": [514, 96]}}]}
