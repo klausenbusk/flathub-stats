@@ -1,1 +1,1 @@
-{"ref": "org.ioquake3.ioquake3", "stats": [{"date": "2023/09/16", "arches": {"aarch64": [2, 0], "x86_64": [67, 5]}}, {"date": "2023/09/17", "arches": {"aarch64": [2, 0], "x86_64": [73, 6]}}]}
+{"ref": "org.ioquake3.ioquake3", "stats": [{"date": "2023/09/16", "arches": {"aarch64": [2, 0], "x86_64": [67, 5]}}, {"date": "2023/09/17", "arches": {"aarch64": [2, 0], "x86_64": [73, 6]}}, {"date": "2023/09/18", "arches": {"x86_64": [61, 2]}}]}
