@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-535-129-03/1.4", "stats": [{"date": "2023/11/01", "arches": {"aarch64": [2, 0], "x86_64": [2478, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-535-129-03/1.4", "stats": [{"date": "2023/11/01", "arches": {"aarch64": [2, 0], "x86_64": [2478, 0]}}, {"date": "2023/11/02", "arches": {"aarch64": [2, 0], "x86_64": [5307, 1]}}]}
