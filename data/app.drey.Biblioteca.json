@@ -1,1 +1,1 @@
-{"ref": "app.drey.Biblioteca", "stats": [{"date": "2023/11/12", "arches": {"aarch64": [2, 0], "x86_64": [132, 4]}}]}
+{"ref": "app.drey.Biblioteca", "stats": [{"date": "2023/11/12", "arches": {"aarch64": [2, 0], "x86_64": [132, 4]}}, {"date": "2023/11/13", "arches": {"aarch64": [3, 1], "x86_64": [198, 65]}}]}
