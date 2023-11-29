@@ -1,1 +1,1 @@
-{"ref": "io.frama.tractor.carburetor", "stats": [{"date": "2023/11/25", "arches": {"x86_64": [29, 0]}}, {"date": "2023/11/26", "arches": {"aarch64": [3, 0], "x86_64": [113, 14]}}]}
+{"ref": "io.frama.tractor.carburetor", "stats": [{"date": "2023/11/25", "arches": {"x86_64": [29, 0]}}, {"date": "2023/11/26", "arches": {"aarch64": [3, 0], "x86_64": [113, 14]}}, {"date": "2023/11/27", "arches": {"aarch64": [5, 0], "x86_64": [119, 14]}}]}
