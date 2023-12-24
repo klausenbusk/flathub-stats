@@ -1,1 +1,1 @@
-{"ref": "org.godotengine.Godot3Sharp", "stats": [{"date": "2023/12/19", "arches": {"x86_64": [23, 3]}}, {"date": "2023/12/20", "arches": {"aarch64": [2, 0], "x86_64": [19, 2]}}, {"date": "2023/12/21", "arches": {"x86_64": [17, 0]}}]}
+{"ref": "org.godotengine.Godot3Sharp", "stats": [{"date": "2023/12/19", "arches": {"x86_64": [23, 3]}}, {"date": "2023/12/20", "arches": {"aarch64": [2, 0], "x86_64": [19, 2]}}, {"date": "2023/12/21", "arches": {"x86_64": [17, 0]}}, {"date": "2023/12/22", "arches": {"x86_64": [13, 0]}}]}
