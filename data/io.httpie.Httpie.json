@@ -1,1 +1,1 @@
-{"ref": "io.httpie.Httpie", "stats": [{"date": "2024/01/25", "arches": {"x86_64": [49, 4]}}]}
+{"ref": "io.httpie.Httpie", "stats": [{"date": "2024/01/25", "arches": {"x86_64": [49, 4]}}, {"date": "2024/01/26", "arches": {"aarch64": [1, 0], "x86_64": [96, 19]}}]}
