@@ -1,1 +1,1 @@
-{"ref": "org.jjazzlab.JJazzLab", "stats": [{"date": "2024/02/07", "arches": {"x86_64": [24, 3]}}, {"date": "2024/02/08", "arches": {"x86_64": [30, 2]}}]}
+{"ref": "org.jjazzlab.JJazzLab", "stats": [{"date": "2024/02/07", "arches": {"x86_64": [24, 3]}}, {"date": "2024/02/08", "arches": {"x86_64": [30, 2]}}, {"date": "2024/02/09", "arches": {"aarch64": [4, 0], "x86_64": [32, 0]}}]}
