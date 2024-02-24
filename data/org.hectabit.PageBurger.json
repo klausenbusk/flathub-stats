@@ -1,1 +1,1 @@
-{"ref": "org.hectabit.PageBurger", "stats": [{"date": "2024/02/20", "arches": {"x86_64": [3, 0]}}, {"date": "2024/02/21", "arches": {"x86_64": [14, 0]}}]}
+{"ref": "org.hectabit.PageBurger", "stats": [{"date": "2024/02/20", "arches": {"x86_64": [3, 0]}}, {"date": "2024/02/21", "arches": {"x86_64": [14, 0]}}, {"date": "2024/02/22", "arches": {"aarch64": [2, 0], "x86_64": [11, 0]}}]}
