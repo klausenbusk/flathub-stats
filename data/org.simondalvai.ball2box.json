@@ -1,1 +1,1 @@
-{"ref": "org.simondalvai.ball2box", "stats": [{"date": "2024/02/22", "arches": {"aarch64": [1, 0], "x86_64": [3, 0]}}]}
+{"ref": "org.simondalvai.ball2box", "stats": [{"date": "2024/02/22", "arches": {"aarch64": [1, 0], "x86_64": [3, 0]}}, {"date": "2024/02/23", "arches": {"aarch64": [1, 0], "x86_64": [15, 1]}}]}
