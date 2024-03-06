@@ -1,1 +1,1 @@
-{"ref": "com.toolstack.Folio", "stats": [{"date": "2024/03/03", "arches": {"aarch64": [3, 0], "x86_64": [93, 1]}}]}
+{"ref": "com.toolstack.Folio", "stats": [{"date": "2024/03/03", "arches": {"aarch64": [3, 0], "x86_64": [93, 1]}}, {"date": "2024/03/04", "arches": {"aarch64": [8, 0], "x86_64": [144, 0]}}]}
