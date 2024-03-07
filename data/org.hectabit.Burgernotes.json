@@ -1,1 +1,1 @@
-{"ref": "org.hectabit.Burgernotes", "stats": [{"date": "2024/03/02", "arches": {"x86_64": [2, 0]}}, {"date": "2024/03/03", "arches": {"aarch64": [1, 0], "x86_64": [41, 0]}}, {"date": "2024/03/04", "arches": {"x86_64": [34, 0]}}]}
+{"ref": "org.hectabit.Burgernotes", "stats": [{"date": "2024/03/02", "arches": {"x86_64": [2, 0]}}, {"date": "2024/03/03", "arches": {"aarch64": [1, 0], "x86_64": [41, 0]}}, {"date": "2024/03/04", "arches": {"x86_64": [34, 0]}}, {"date": "2024/03/05", "arches": {"x86_64": [16, 0]}}]}
