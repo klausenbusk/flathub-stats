@@ -1,1 +1,1 @@
-{"ref": "org.gnome.Sdk/46", "stats": [{"date": "2024/03/19", "arches": {"x86_64": [3, 0]}}]}
+{"ref": "org.gnome.Sdk/46", "stats": [{"date": "2024/03/19", "arches": {"x86_64": [3, 0]}}, {"date": "2024/03/20", "arches": {"aarch64": [36, 0], "x86_64": [1260, 0]}}]}
