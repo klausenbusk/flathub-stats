@@ -1,1 +1,1 @@
-{"ref": "org.spyder_ide.spyder", "stats": [{"date": "2024/03/23", "arches": {"x86_64": [9, 0]}}]}
+{"ref": "org.spyder_ide.spyder", "stats": [{"date": "2024/03/23", "arches": {"x86_64": [9, 0]}}, {"date": "2024/03/24", "arches": {"aarch64": [13, 0], "x86_64": [134, 0]}}]}
