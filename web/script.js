@@ -14,6 +14,10 @@ function initChart() {
 
 		// Configuration options go here
 		options: {
+			tension: 0.5,
+			borderCapStyle: "round",
+			borderJoinStyle: "round",
+
 			scales: {
 				x: {
 					type: "time",
@@ -65,7 +69,7 @@ function updateDatasets() {
 				let color = chartColors.pop();
 				datasets[arch] = {
 					label: arch,
-					backgroundColor: Chart.helpers.color(color).alpha(0.5).rgbString(),
+					backgroundColor: Chart.helpers.color(color).alpha(0.2).rgbString(),
 					borderColor: color,
 					fill: true,
 					data: []
