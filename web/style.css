@@ -15,3 +15,9 @@ main {
     flex: 1;
     align-items: center;
 }
+
+header,
+footer {
+    background: rgba(100, 100, 100, 0.1);
+    padding: 1rem;
+}
