@@ -3,6 +3,8 @@ let refs = new Set();
 let stats;
 let ref;
 let interval;
+/** How many days to group into one data point. @type {number} */
+let granularity;
 let downloadType;
 let min = null;
 
@@ -96,13 +98,32 @@ function updateDatasets() {
 			});
 		}
 	}
+
+	if (granularity > 1) {
+		for (let arch of Object.keys(datasets)) {
+			let oldData = datasets[arch].data;
+			let newData = [];
+			for (let i = 0; i < oldData.length; i += granularity) {
+				let sum = 0;
+				for (let di = 0; di < granularity && i+di < oldData.length; di++) {
+					sum += oldData[i+di].y;
+				}
+				newData.push({
+					x: oldData[i].x,
+					y: sum
+				});
+			}
+			datasets[arch].data = newData;
+		}
+	}
+
 	chart.data.datasets = Object.values(datasets);
 	chart.update();
 	updateBasicStats();
 }
 
 function updateURL() {
-	window.location.hash = `#ref=${ref}&interval=${interval}&downloadType=` + encodeURIComponent(downloadType);
+	window.location.hash = `#ref=${ref}&interval=${interval}&granularity=${granularity}&downloadType=` + encodeURIComponent(downloadType);
 }
 
 async function refHandler(event) {
@@ -119,7 +140,7 @@ async function refHandler(event) {
 	updateURL();
 }
 
-function intervalHandler() {
+function intervalHandler(event) {
 	interval = event.target.value;
 	if (interval === "infinity") {
 		delete chart.options.scales.x.min;
@@ -134,7 +155,13 @@ function intervalHandler() {
 	updateURL();
 }
 
-function downloadTypeHandler() {
+function granularityHandler(event) {
+	granularity = parseInt(event.target.value);
+	updateDatasets();
+	updateURL();
+}
+
+function downloadTypeHandler(event) {
 	downloadType = event.target.value;
 	updateDatasets();
 	updateURL();
@@ -156,6 +183,7 @@ async function init() {
 
 	let refElement = document.getElementById("ref");
 	let intervalSelectElement = document.getElementById("interval-select");
+	let granularitySelectElement = document.getElementById("granularity");
 	let downloadTypeElement = document.getElementById("downloadType");
 	let params = new URLSearchParams(window.location.hash.substring(1));
 
@@ -164,6 +192,10 @@ async function init() {
 		intervalSelectElement.value = params.get("interval");
 	}
 	interval = intervalSelectElement.value;
+	if (params.has("granularity")) {
+		granularitySelectElement.value = params.get("granularity");
+	}
+	granularity = parseInt(granularitySelectElement.value);
 	if (params.has("downloadType")) {
 		downloadTypeElement.value = params.get("downloadType");
 	}
@@ -171,6 +203,7 @@ async function init() {
 
 	refElement.addEventListener("change", refHandler);
 	intervalSelectElement.addEventListener("change", intervalHandler);
+	granularitySelectElement.addEventListener("change", granularityHandler);
 	downloadTypeElement.addEventListener("change", downloadTypeHandler);
 
 	await refHandler({target: {value: refElement.value}});
