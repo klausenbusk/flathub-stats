@@ -123,7 +123,12 @@ function updateDatasets() {
 }
 
 function updateURL() {
-	window.location.hash = `#ref=${ref}&interval=${interval}&granularity=${granularity}&downloadType=` + encodeURIComponent(downloadType);
+	const params = new URLSearchParams();
+	params.set("ref", ref);
+	if (interval !== "infinity") params.set("interval", interval);
+	if (granularity !== 1) params.set("granularity", granularity);
+	if (downloadType !== "installs+updates") params.set("downloadType", downloadType);
+	window.location.hash = '#' + params.toString();
 }
 
 async function refHandler(event) {
