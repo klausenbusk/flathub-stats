@@ -12,12 +12,18 @@ body {
 }
 main {
     display: flex;
-    flex: 1;
+    flex: 0 1 100%;
     align-items: center;
+    justify-content: center;
+}
+main canvas {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 header,
 footer {
+    flex: 0 0 auto;
     background: rgba(100, 100, 100, 0.1);
     padding: 1rem;
 }
