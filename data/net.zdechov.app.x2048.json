@@ -1,1 +1,1 @@
-{"ref": "net.zdechov.app.x2048", "stats": [{"date": "2024/06/13", "arches": {"aarch64": [2, 0], "x86_64": [36, 4]}}]}
+{"ref": "net.zdechov.app.x2048", "stats": [{"date": "2024/06/13", "arches": {"aarch64": [2, 0], "x86_64": [36, 4]}}, {"date": "2024/06/14", "arches": {"x86_64": [80, 7]}}]}
