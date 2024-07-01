@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-555-58/1.4", "stats": [{"date": "2024/06/27", "arches": {"x86_64": [109, 0]}}, {"date": "2024/06/28", "arches": {"x86_64": [1411, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-555-58/1.4", "stats": [{"date": "2024/06/27", "arches": {"x86_64": [109, 0]}}, {"date": "2024/06/28", "arches": {"x86_64": [1411, 0]}}, {"date": "2024/06/29", "arches": {"aarch64": [2, 0], "x86_64": [3888, 0]}}]}
