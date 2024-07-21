@@ -1,1 +1,1 @@
-{"ref": "org.metamuffin.hurrycurry.client", "stats": [{"date": "2024/07/17", "arches": {"aarch64": [4, 0], "x86_64": [41, 0]}}, {"date": "2024/07/18", "arches": {"x86_64": [40, 0]}}]}
+{"ref": "org.metamuffin.hurrycurry.client", "stats": [{"date": "2024/07/17", "arches": {"aarch64": [4, 0], "x86_64": [41, 0]}}, {"date": "2024/07/18", "arches": {"x86_64": [40, 0]}}, {"date": "2024/07/19", "arches": {"x86_64": [9, 0]}}]}
