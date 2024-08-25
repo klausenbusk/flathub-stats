@@ -1,1 +1,1 @@
-{"ref": "net.zdechov.app.LazFuck", "stats": [{"date": "2024/08/22", "arches": {"x86_64": [8, 0]}}]}
+{"ref": "net.zdechov.app.LazFuck", "stats": [{"date": "2024/08/22", "arches": {"x86_64": [8, 0]}}, {"date": "2024/08/23", "arches": {"aarch64": [4, 0], "x86_64": [3, 0]}}]}
