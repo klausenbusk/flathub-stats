@@ -1,1 +1,1 @@
-{"ref": "com.surfshark.Surfshark", "stats": [{"date": "2024/09/02", "arches": {"x86_64": [53, 0]}}, {"date": "2024/09/03", "arches": {"aarch64": [6, 0], "x86_64": [137, 0]}}, {"date": "2024/09/04", "arches": {"aarch64": [4, 0], "x86_64": [157, 47]}}]}
+{"ref": "com.surfshark.Surfshark", "stats": [{"date": "2024/09/02", "arches": {"x86_64": [53, 0]}}, {"date": "2024/09/03", "arches": {"aarch64": [6, 0], "x86_64": [137, 0]}}, {"date": "2024/09/04", "arches": {"aarch64": [4, 0], "x86_64": [157, 47]}}, {"date": "2024/09/05", "arches": {"aarch64": [6, 2], "x86_64": [165, 41]}}]}
