@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform/24.08", "stats": [{"date": "2024/09/08", "arches": {"aarch64": [4, 0], "x86_64": [49, 0]}}, {"date": "2024/09/09", "arches": {"aarch64": [66, 0], "x86_64": [3541, 8]}}]}
+{"ref": "org.freedesktop.Platform/24.08", "stats": [{"date": "2024/09/08", "arches": {"aarch64": [4, 0], "x86_64": [49, 0]}}, {"date": "2024/09/09", "arches": {"aarch64": [66, 0], "x86_64": [3541, 8]}}, {"date": "2024/09/10", "arches": {"aarch64": [125, 0], "x86_64": [16406, 29]}}]}
