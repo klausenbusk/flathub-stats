@@ -1,1 +1,1 @@
-{"ref": "com.rustdesk.RustDesk", "stats": [{"date": "2024/10/07", "arches": {"aarch64": [6, 0], "x86_64": [267, 14]}}, {"date": "2024/10/08", "arches": {"aarch64": [3, 0], "x86_64": [527, 92]}}]}
+{"ref": "com.rustdesk.RustDesk", "stats": [{"date": "2024/10/07", "arches": {"aarch64": [6, 0], "x86_64": [267, 14]}}, {"date": "2024/10/08", "arches": {"aarch64": [3, 0], "x86_64": [527, 92]}}, {"date": "2024/10/09", "arches": {"aarch64": [1, 0], "x86_64": [432, 73]}}]}
