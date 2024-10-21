@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.openjdk8/24.08", "stats": [{"date": "2024/10/15", "arches": {"aarch64": [8, 0], "x86_64": [7, 0]}}, {"date": "2024/10/16", "arches": {"x86_64": [7, 0]}}, {"date": "2024/10/17", "arches": {"x86_64": [13, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.openjdk8/24.08", "stats": [{"date": "2024/10/15", "arches": {"aarch64": [8, 0], "x86_64": [7, 0]}}, {"date": "2024/10/16", "arches": {"x86_64": [7, 0]}}, {"date": "2024/10/17", "arches": {"x86_64": [13, 0]}}, {"date": "2024/10/19", "arches": {"x86_64": [14, 9]}}]}
