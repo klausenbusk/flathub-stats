@@ -1,1 +1,1 @@
-{"ref": "org.blackfennec.app.extensions.core/0.12", "stats": [{"date": "2024/11/15", "arches": {"x86_64": [246, 8]}}]}
+{"ref": "org.blackfennec.app.extensions.core/0.12", "stats": [{"date": "2024/11/15", "arches": {"x86_64": [246, 8]}}, {"date": "2024/11/16", "arches": {"aarch64": [2, 0], "x86_64": [48, 4]}}]}
