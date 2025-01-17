@@ -1,1 +1,1 @@
-{"ref": "app.zen_browser.zen", "stats": [{"date": "2025/01/14", "arches": {"aarch64": [2, 0], "x86_64": [999, 0]}}]}
+{"ref": "app.zen_browser.zen", "stats": [{"date": "2025/01/14", "arches": {"aarch64": [2, 0], "x86_64": [999, 0]}}, {"date": "2025/01/15", "arches": {"aarch64": [15, 0], "x86_64": [12016, 0]}}]}
