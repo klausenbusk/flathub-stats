@@ -1,1 +1,1 @@
-{"ref": "app.freelens.Freelens", "stats": [{"date": "2025/01/24", "arches": {"aarch64": [5, 0], "x86_64": [11, 0]}}, {"date": "2025/01/26", "arches": {"x86_64": [24, 0]}}]}
+{"ref": "app.freelens.Freelens", "stats": [{"date": "2025/01/24", "arches": {"aarch64": [5, 0], "x86_64": [11, 0]}}, {"date": "2025/01/26", "arches": {"x86_64": [24, 0]}}, {"date": "2025/01/27", "arches": {"x86_64": [21, 0]}}]}
