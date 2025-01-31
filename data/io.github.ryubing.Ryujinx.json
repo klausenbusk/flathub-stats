@@ -1,1 +1,1 @@
-{"ref": "io.github.ryubing.Ryujinx", "stats": [{"date": "2025/01/27", "arches": {"aarch64": [4, 0], "x86_64": [379, 26]}}, {"date": "2025/01/28", "arches": {"x86_64": [365, 30]}}]}
+{"ref": "io.github.ryubing.Ryujinx", "stats": [{"date": "2025/01/27", "arches": {"aarch64": [4, 0], "x86_64": [379, 26]}}, {"date": "2025/01/28", "arches": {"x86_64": [365, 30]}}, {"date": "2025/01/29", "arches": {"aarch64": [2, 0], "x86_64": [334, 3]}}]}
