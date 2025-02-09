@@ -1,1 +1,1 @@
-{"ref": "io.github.hamza_algohary.Coulomb", "stats": [{"date": "2025/02/04", "arches": {"x86_64": [2, 0]}}, {"date": "2025/02/05", "arches": {"aarch64": [4, 0], "x86_64": [60, 10]}}, {"date": "2025/02/06", "arches": {"x86_64": [76, 34]}}]}
+{"ref": "io.github.hamza_algohary.Coulomb", "stats": [{"date": "2025/02/04", "arches": {"x86_64": [2, 0]}}, {"date": "2025/02/05", "arches": {"aarch64": [4, 0], "x86_64": [60, 10]}}, {"date": "2025/02/06", "arches": {"x86_64": [76, 34]}}, {"date": "2025/02/07", "arches": {"aarch64": [6, 0], "x86_64": [76, 14]}}]}
