@@ -1,1 +1,1 @@
-{"ref": "net.rosebirch.nextgroove", "stats": [{"date": "2025/03/23", "arches": {"aarch64": [2, 0], "x86_64": [40, 2]}}, {"date": "2025/03/24", "arches": {"aarch64": [2, 0], "x86_64": [50, 19]}}, {"date": "2025/03/25", "arches": {"x86_64": [23, 0]}}]}
+{"ref": "net.rosebirch.nextgroove", "stats": [{"date": "2025/03/23", "arches": {"aarch64": [2, 0], "x86_64": [40, 2]}}, {"date": "2025/03/24", "arches": {"aarch64": [2, 0], "x86_64": [50, 19]}}, {"date": "2025/03/25", "arches": {"x86_64": [23, 0]}}, {"date": "2025/03/26", "arches": {"aarch64": [2, 0], "x86_64": [13, 0]}}]}
