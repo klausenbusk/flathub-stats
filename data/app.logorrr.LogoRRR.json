@@ -1,1 +1,1 @@
-{"ref": "app.logorrr.LogoRRR", "stats": [{"date": "2025/06/16", "arches": {"x86_64": [35, 0]}}]}
+{"ref": "app.logorrr.LogoRRR", "stats": [{"date": "2025/06/16", "arches": {"x86_64": [35, 0]}}, {"date": "2025/06/17", "arches": {"aarch64": [2, 0], "x86_64": [19, 4]}}]}

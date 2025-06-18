@@ -1,1 +1,1 @@
-{"ref": "com.serial_studio.Serial-Studio", "stats": [{"date": "2025/06/16", "arches": {"x86_64": [20, 2]}}]}
+{"ref": "com.serial_studio.Serial-Studio", "stats": [{"date": "2025/06/16", "arches": {"x86_64": [20, 2]}}, {"date": "2025/06/17", "arches": {"aarch64": [2, 0], "x86_64": [32, 12]}}]}
