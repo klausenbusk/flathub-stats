@@ -1,1 +1,1 @@
-{"ref": "io.github.sepehr_rs.Sudoku", "stats": [{"date": "2025/08/08", "arches": {"aarch64": [3, 0], "x86_64": [87, 0]}}]}
+{"ref": "io.github.sepehr_rs.Sudoku", "stats": [{"date": "2025/08/08", "arches": {"aarch64": [3, 0], "x86_64": [87, 0]}}, {"date": "2025/08/09", "arches": {"aarch64": [2, 0], "x86_64": [80, 6]}}]}
