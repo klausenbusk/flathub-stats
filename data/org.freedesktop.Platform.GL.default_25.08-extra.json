@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.default/25.08-extra", "stats": [{"date": "2025/09/01", "arches": {"aarch64": [76, 0], "x86_64": [208, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.default/25.08-extra", "stats": [{"date": "2025/09/01", "arches": {"aarch64": [76, 0], "x86_64": [208, 0]}}, {"date": "2025/09/02", "arches": {"aarch64": [244, 0], "x86_64": [36219, 0]}}]}
