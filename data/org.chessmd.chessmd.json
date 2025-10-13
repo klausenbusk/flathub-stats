@@ -1,1 +1,1 @@
-{"ref": "org.chessmd.chessmd", "stats": [{"date": "2025/10/10", "arches": {"aarch64": [2, 0], "x86_64": [78, 0]}}, {"date": "2025/10/11", "arches": {"aarch64": [4, 0], "x86_64": [95, 23]}}]}
+{"ref": "org.chessmd.chessmd", "stats": [{"date": "2025/10/10", "arches": {"aarch64": [2, 0], "x86_64": [78, 0]}}, {"date": "2025/10/11", "arches": {"aarch64": [4, 0], "x86_64": [95, 23]}}, {"date": "2025/10/12", "arches": {"aarch64": [4, 0], "x86_64": [72, 0]}}]}
