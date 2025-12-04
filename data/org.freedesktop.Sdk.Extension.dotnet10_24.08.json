@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.dotnet10/24.08", "stats": [{"date": "2025/12/01", "arches": {"x86_64": [14, 0]}}, {"date": "2025/12/02", "arches": {"aarch64": [3, 0], "x86_64": [21, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.dotnet10/24.08", "stats": [{"date": "2025/12/01", "arches": {"x86_64": [14, 0]}}, {"date": "2025/12/02", "arches": {"aarch64": [3, 0], "x86_64": [21, 0]}}, {"date": "2025/12/03", "arches": {"aarch64": [4, 0], "x86_64": [19, 0]}}]}

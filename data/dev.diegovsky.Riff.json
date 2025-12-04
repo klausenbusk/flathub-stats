@@ -1,1 +1,1 @@
-{"ref": "dev.diegovsky.Riff", "stats": [{"date": "2025/12/02", "arches": {"x86_64": [38, 0]}}]}
+{"ref": "dev.diegovsky.Riff", "stats": [{"date": "2025/12/02", "arches": {"x86_64": [38, 0]}}, {"date": "2025/12/03", "arches": {"aarch64": [8, 0], "x86_64": [143, 18]}}]}
