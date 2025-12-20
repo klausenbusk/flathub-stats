@@ -1,1 +1,1 @@
-{"ref": "tech.digiroad.Convertidor", "stats": [{"date": "2025/12/16", "arches": {"x86_64": [81, 4]}}, {"date": "2025/12/17", "arches": {"aarch64": [4, 0], "x86_64": [125, 37]}}, {"date": "2025/12/18", "arches": {"aarch64": [2, 0], "x86_64": [38, 3]}}]}
+{"ref": "tech.digiroad.Convertidor", "stats": [{"date": "2025/12/16", "arches": {"x86_64": [81, 4]}}, {"date": "2025/12/17", "arches": {"aarch64": [4, 0], "x86_64": [125, 37]}}, {"date": "2025/12/18", "arches": {"aarch64": [2, 0], "x86_64": [38, 3]}}, {"date": "2025/12/19", "arches": {"x86_64": [25, 0]}}]}
