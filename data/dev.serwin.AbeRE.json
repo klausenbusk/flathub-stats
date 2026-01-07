@@ -1,1 +1,1 @@
-{"ref": "dev.serwin.AbeRE", "stats": [{"date": "2026/01/04", "arches": {"aarch64": [4, 0], "x86_64": [55, 2]}}]}
+{"ref": "dev.serwin.AbeRE", "stats": [{"date": "2026/01/04", "arches": {"aarch64": [4, 0], "x86_64": [55, 2]}}, {"date": "2026/01/05", "arches": {"x86_64": [21, 0]}}, {"date": "2026/01/06", "arches": {"x86_64": [14, 0]}}]}
