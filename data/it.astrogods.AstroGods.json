@@ -1,1 +1,1 @@
-{"ref": "it.astrogods.AstroGods", "stats": [{"date": "2026/01/06", "arches": {"x86_64": [49, 0]}}]}
+{"ref": "it.astrogods.AstroGods", "stats": [{"date": "2026/01/06", "arches": {"x86_64": [49, 0]}}, {"date": "2026/01/07", "arches": {"aarch64": [4, 0], "x86_64": [98, 12]}}]}
