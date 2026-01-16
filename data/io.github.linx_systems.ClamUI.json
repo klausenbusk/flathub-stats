@@ -1,1 +1,1 @@
-{"ref": "io.github.linx_systems.ClamUI", "stats": [{"date": "2026/01/13", "arches": {"x86_64": [106, 0]}}, {"date": "2026/01/14", "arches": {"aarch64": [6, 0], "x86_64": [393, 31]}}]}
+{"ref": "io.github.linx_systems.ClamUI", "stats": [{"date": "2026/01/13", "arches": {"x86_64": [106, 0]}}, {"date": "2026/01/14", "arches": {"aarch64": [6, 0], "x86_64": [393, 31]}}, {"date": "2026/01/15", "arches": {"aarch64": [6, 2], "x86_64": [648, 254]}}]}
