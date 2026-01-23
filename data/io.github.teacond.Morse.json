@@ -1,1 +1,1 @@
-{"ref": "io.github.teacond.Morse", "stats": [{"date": "2026/01/20", "arches": {"x86_64": [111, 12]}}, {"date": "2026/01/21", "arches": {"aarch64": [16, 0], "x86_64": [172, 22]}}]}
+{"ref": "io.github.teacond.Morse", "stats": [{"date": "2026/01/20", "arches": {"x86_64": [111, 12]}}, {"date": "2026/01/21", "arches": {"aarch64": [16, 0], "x86_64": [172, 22]}}, {"date": "2026/01/22", "arches": {"x86_64": [128, 34]}}]}
