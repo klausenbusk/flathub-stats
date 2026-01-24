@@ -1,1 +1,1 @@
-{"ref": "net.emulicious.Emulicious", "stats": [{"date": "2026/01/21", "arches": {"aarch64": [2, 0], "x86_64": [9, 0]}}, {"date": "2026/01/22", "arches": {"x86_64": [13, 0]}}]}
+{"ref": "net.emulicious.Emulicious", "stats": [{"date": "2026/01/21", "arches": {"aarch64": [2, 0], "x86_64": [9, 0]}}, {"date": "2026/01/22", "arches": {"x86_64": [13, 0]}}, {"date": "2026/01/23", "arches": {"x86_64": [19, 0]}}]}
