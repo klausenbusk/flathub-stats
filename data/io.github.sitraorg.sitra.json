@@ -1,1 +1,1 @@
-{"ref": "io.github.sitraorg.sitra", "stats": [{"date": "2026/02/01", "arches": {"aarch64": [2, 0], "x86_64": [55, 0]}}, {"date": "2026/02/02", "arches": {"x86_64": [77, 0]}}, {"date": "2026/02/03", "arches": {"aarch64": [1, 0], "x86_64": [257, 0]}}]}
+{"ref": "io.github.sitraorg.sitra", "stats": [{"date": "2026/02/01", "arches": {"aarch64": [2, 0], "x86_64": [55, 0]}}, {"date": "2026/02/02", "arches": {"x86_64": [77, 0]}}, {"date": "2026/02/03", "arches": {"aarch64": [1, 0], "x86_64": [257, 0]}}, {"date": "2026/02/04", "arches": {"x86_64": [279, 195]}}]}
