@@ -1,1 +1,1 @@
-{"ref": "net.lockbook.Lockbook", "stats": [{"date": "2026/02/15", "arches": {"aarch64": [8, 0], "x86_64": [21, 0]}}, {"date": "2026/02/16", "arches": {"x86_64": [26, 0]}}]}
+{"ref": "net.lockbook.Lockbook", "stats": [{"date": "2026/02/15", "arches": {"aarch64": [8, 0], "x86_64": [21, 0]}}, {"date": "2026/02/16", "arches": {"x86_64": [26, 0]}}, {"date": "2026/02/17", "arches": {"x86_64": [4, 0]}}]}
