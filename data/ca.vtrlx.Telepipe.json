@@ -1,1 +1,1 @@
-{"ref": "ca.vtrlx.Telepipe", "stats": [{"date": "2026/03/05", "arches": {"aarch64": [2, 0], "x86_64": [35, 0]}}, {"date": "2026/03/06", "arches": {"aarch64": [2, 0], "x86_64": [21, 0]}}]}
+{"ref": "ca.vtrlx.Telepipe", "stats": [{"date": "2026/03/05", "arches": {"aarch64": [2, 0], "x86_64": [35, 0]}}, {"date": "2026/03/06", "arches": {"aarch64": [2, 0], "x86_64": [21, 0]}}, {"date": "2026/03/07", "arches": {"aarch64": [4, 0], "x86_64": [38, 21]}}]}
