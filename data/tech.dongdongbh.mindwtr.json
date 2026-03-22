@@ -1,1 +1,1 @@
-{"ref": "tech.dongdongbh.mindwtr", "stats": [{"date": "2026/03/18", "arches": {"x86_64": [8, 0]}}, {"date": "2026/03/19", "arches": {"x86_64": [30, 4]}}, {"date": "2026/03/20", "arches": {"x86_64": [23, 0]}}]}
+{"ref": "tech.dongdongbh.mindwtr", "stats": [{"date": "2026/03/18", "arches": {"x86_64": [8, 0]}}, {"date": "2026/03/19", "arches": {"x86_64": [30, 4]}}, {"date": "2026/03/20", "arches": {"x86_64": [23, 0]}}, {"date": "2026/03/21", "arches": {"aarch64": [2, 0], "x86_64": [14, 0]}}]}

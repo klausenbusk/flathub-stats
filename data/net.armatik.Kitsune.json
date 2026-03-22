@@ -1,1 +1,1 @@
-{"ref": "net.armatik.Kitsune", "stats": [{"date": "2026/03/19", "arches": {"aarch64": [2, 0], "x86_64": [66, 0]}}, {"date": "2026/03/20", "arches": {"aarch64": [2, 0], "x86_64": [106, 0]}}]}
+{"ref": "net.armatik.Kitsune", "stats": [{"date": "2026/03/19", "arches": {"aarch64": [2, 0], "x86_64": [66, 0]}}, {"date": "2026/03/20", "arches": {"aarch64": [2, 0], "x86_64": [106, 0]}}, {"date": "2026/03/21", "arches": {"aarch64": [2, 0], "x86_64": [211, 48]}}]}
