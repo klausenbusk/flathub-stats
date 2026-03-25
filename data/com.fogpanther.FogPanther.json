@@ -1,1 +1,1 @@
-{"ref": "com.fogpanther.FogPanther", "stats": [{"date": "2026/03/22", "arches": {"x86_64": [61, 6]}}, {"date": "2026/03/23", "arches": {"aarch64": [2, 0], "x86_64": [237, 11]}}]}
+{"ref": "com.fogpanther.FogPanther", "stats": [{"date": "2026/03/22", "arches": {"x86_64": [61, 6]}}, {"date": "2026/03/23", "arches": {"aarch64": [2, 0], "x86_64": [237, 11]}}, {"date": "2026/03/24", "arches": {"aarch64": [8, 0], "x86_64": [146, 0]}}]}
