@@ -1,1 +1,1 @@
-{"ref": "dev.mooday.GstPipelineStudio", "stats": [{"date": "2026/03/24", "arches": {"x86_64": [6, 0]}}, {"date": "2026/03/25", "arches": {"x86_64": [25, 4]}}]}
+{"ref": "dev.mooday.GstPipelineStudio", "stats": [{"date": "2026/03/24", "arches": {"x86_64": [6, 0]}}, {"date": "2026/03/25", "arches": {"x86_64": [25, 4]}}, {"date": "2026/03/26", "arches": {"aarch64": [2, 0], "x86_64": [102, 7]}}]}

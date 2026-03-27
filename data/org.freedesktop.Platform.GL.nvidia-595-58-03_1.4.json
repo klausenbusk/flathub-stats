@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-595-58-03/1.4", "stats": [{"date": "2026/03/24", "arches": {"x86_64": [462, 0]}}, {"date": "2026/03/25", "arches": {"aarch64": [11, 0], "x86_64": [6192, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-595-58-03/1.4", "stats": [{"date": "2026/03/24", "arches": {"x86_64": [462, 0]}}, {"date": "2026/03/25", "arches": {"aarch64": [11, 0], "x86_64": [6192, 0]}}, {"date": "2026/03/26", "arches": {"aarch64": [14, 0], "x86_64": [8305, 0]}}]}
