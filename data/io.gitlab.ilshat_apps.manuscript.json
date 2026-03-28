@@ -1,1 +1,1 @@
-{"ref": "io.gitlab.ilshat_apps.manuscript", "stats": [{"date": "2026/03/25", "arches": {"aarch64": [2, 0], "x86_64": [91, 4]}}, {"date": "2026/03/26", "arches": {"x86_64": [103, 42]}}]}
+{"ref": "io.gitlab.ilshat_apps.manuscript", "stats": [{"date": "2026/03/25", "arches": {"aarch64": [2, 0], "x86_64": [91, 4]}}, {"date": "2026/03/26", "arches": {"x86_64": [103, 42]}}, {"date": "2026/03/27", "arches": {"x86_64": [42, 10]}}]}
