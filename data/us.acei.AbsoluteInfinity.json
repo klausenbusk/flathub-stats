@@ -1,1 +1,1 @@
-{"ref": "us.acei.AbsoluteInfinity", "stats": [{"date": "2026/04/05", "arches": {"x86_64": [43, 6]}}, {"date": "2026/04/06", "arches": {"x86_64": [39, 6]}}]}
+{"ref": "us.acei.AbsoluteInfinity", "stats": [{"date": "2026/04/05", "arches": {"x86_64": [43, 6]}}, {"date": "2026/04/06", "arches": {"x86_64": [39, 6]}}, {"date": "2026/04/07", "arches": {"aarch64": [2, 0], "x86_64": [37, 2]}}]}
