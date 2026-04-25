@@ -1,1 +1,1 @@
-{"ref": "ai.opencode.opencode", "stats": [{"date": "2026/04/23", "arches": {"aarch64": [4, 0], "x86_64": [79, 0]}}]}
+{"ref": "ai.opencode.opencode", "stats": [{"date": "2026/04/23", "arches": {"aarch64": [4, 0], "x86_64": [79, 0]}}, {"date": "2026/04/24", "arches": {"x86_64": [255, 57]}}]}
