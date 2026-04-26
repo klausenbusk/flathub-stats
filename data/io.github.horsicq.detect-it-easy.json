@@ -1,1 +1,1 @@
-{"ref": "io.github.horsicq.detect-it-easy", "stats": [{"date": "2026/04/23", "arches": {"x86_64": [28, 0]}}, {"date": "2026/04/24", "arches": {"x86_64": [37, 8]}}]}
+{"ref": "io.github.horsicq.detect-it-easy", "stats": [{"date": "2026/04/23", "arches": {"x86_64": [28, 0]}}, {"date": "2026/04/24", "arches": {"x86_64": [37, 8]}}, {"date": "2026/04/25", "arches": {"aarch64": [2, 0], "x86_64": [18, 0]}}]}
