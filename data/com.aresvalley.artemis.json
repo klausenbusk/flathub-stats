@@ -1,1 +1,1 @@
-{"ref": "com.aresvalley.artemis", "stats": [{"date": "2026/06/18", "arches": {"x86_64": [39, 6]}}, {"date": "2026/06/19", "arches": {"x86_64": [40, 0]}}]}
+{"ref": "com.aresvalley.artemis", "stats": [{"date": "2026/06/18", "arches": {"x86_64": [39, 6]}}, {"date": "2026/06/19", "arches": {"x86_64": [40, 0]}}, {"date": "2026/06/20", "arches": {"aarch64": [2, 0], "x86_64": [26, 0]}}]}

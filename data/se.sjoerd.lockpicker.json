@@ -1,1 +1,1 @@
-{"ref": "se.sjoerd.lockpicker", "stats": [{"date": "2026/06/18", "arches": {"aarch64": [2, 0], "x86_64": [40, 0]}}, {"date": "2026/06/19", "arches": {"aarch64": [6, 0], "x86_64": [182, 55]}}]}
+{"ref": "se.sjoerd.lockpicker", "stats": [{"date": "2026/06/18", "arches": {"aarch64": [2, 0], "x86_64": [40, 0]}}, {"date": "2026/06/19", "arches": {"aarch64": [6, 0], "x86_64": [182, 55]}}, {"date": "2026/06/20", "arches": {"aarch64": [4, 0], "x86_64": [209, 85]}}]}
