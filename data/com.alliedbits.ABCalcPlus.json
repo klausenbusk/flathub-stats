@@ -1,1 +1,1 @@
-{"ref": "com.alliedbits.ABCalcPlus", "stats": [{"date": "2026/07/06", "arches": {"x86_64": [13, 0]}}, {"date": "2026/07/07", "arches": {"x86_64": [23, 0]}}]}
+{"ref": "com.alliedbits.ABCalcPlus", "stats": [{"date": "2026/07/06", "arches": {"x86_64": [13, 0]}}, {"date": "2026/07/07", "arches": {"x86_64": [23, 0]}}, {"date": "2026/07/08", "arches": {"aarch64": [2, 0], "x86_64": [12, 0]}}]}
