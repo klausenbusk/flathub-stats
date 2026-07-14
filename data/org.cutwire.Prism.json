@@ -1,1 +1,1 @@
-{"ref": "org.cutwire.Prism", "stats": [{"date": "2026/07/11", "arches": {"aarch64": [2, 0], "x86_64": [20, 0]}}, {"date": "2026/07/12", "arches": {"x86_64": [42, 0]}}]}
+{"ref": "org.cutwire.Prism", "stats": [{"date": "2026/07/11", "arches": {"aarch64": [2, 0], "x86_64": [20, 0]}}, {"date": "2026/07/12", "arches": {"x86_64": [42, 0]}}, {"date": "2026/07/13", "arches": {"x86_64": [22, 0]}}]}
