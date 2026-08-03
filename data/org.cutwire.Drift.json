@@ -1,1 +1,1 @@
-{"ref": "org.cutwire.Drift", "stats": [{"date": "2026/08/01", "arches": {"x86_64": [91, 2]}}]}
+{"ref": "org.cutwire.Drift", "stats": [{"date": "2026/08/01", "arches": {"x86_64": [91, 2]}}, {"date": "2026/08/02", "arches": {"aarch64": [2, 0], "x86_64": [159, 5]}}]}
