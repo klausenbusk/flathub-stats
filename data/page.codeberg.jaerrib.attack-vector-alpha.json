@@ -1,1 +1,1 @@
-{"ref": "page.codeberg.jaerrib.attack-vector-alpha", "stats": [{"date": "2026/08/03", "arches": {"x86_64": [2, 0]}}]}
+{"ref": "page.codeberg.jaerrib.attack-vector-alpha", "stats": [{"date": "2026/08/03", "arches": {"x86_64": [2, 0]}}, {"date": "2026/08/04", "arches": {"aarch64": [2, 0], "x86_64": [34, 5]}}]}
