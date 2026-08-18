@@ -1,1 +1,1 @@
-{"ref": "app.vger.voyager", "stats": [{"date": "2026/08/16", "arches": {"x86_64": [4, 0]}}]}
+{"ref": "app.vger.voyager", "stats": [{"date": "2026/08/16", "arches": {"x86_64": [4, 0]}}, {"date": "2026/08/17", "arches": {"aarch64": [4, 0], "x86_64": [94, 8]}}]}
