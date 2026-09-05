@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.rust-stable/26.08", "stats": [{"date": "2026/09/03", "arches": {"x86_64": [7, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.rust-stable/26.08", "stats": [{"date": "2026/09/03", "arches": {"x86_64": [7, 0]}}, {"date": "2026/09/04", "arches": {"aarch64": [12, 0], "x86_64": [79, 0]}}]}
