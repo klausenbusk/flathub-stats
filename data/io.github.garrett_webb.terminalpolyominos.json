@@ -1,1 +1,1 @@
-{"ref": "io.github.garrett_webb.terminalpolyominos", "stats": [{"date": "2026/09/02", "arches": {"aarch64": [2, 0], "x86_64": [4, 0]}}, {"date": "2026/09/03", "arches": {"x86_64": [29, 2]}}, {"date": "2026/09/04", "arches": {"x86_64": [26, 10]}}]}
+{"ref": "io.github.garrett_webb.terminalpolyominos", "stats": [{"date": "2026/09/02", "arches": {"aarch64": [2, 0], "x86_64": [4, 0]}}, {"date": "2026/09/03", "arches": {"x86_64": [29, 2]}}, {"date": "2026/09/04", "arches": {"x86_64": [26, 10]}}, {"date": "2026/09/05", "arches": {"aarch64": [6, 0], "x86_64": [24, 4]}}]}
