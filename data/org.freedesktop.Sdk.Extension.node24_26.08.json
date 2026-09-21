@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Sdk.Extension.node24/26.08", "stats": [{"date": "2026/09/19", "arches": {"x86_64": [294, 0]}}]}
+{"ref": "org.freedesktop.Sdk.Extension.node24/26.08", "stats": [{"date": "2026/09/19", "arches": {"x86_64": [294, 0]}}, {"date": "2026/09/20", "arches": {"aarch64": [3, 0], "x86_64": [192, 0]}}]}
