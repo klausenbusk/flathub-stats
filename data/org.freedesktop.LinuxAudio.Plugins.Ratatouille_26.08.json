@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.LinuxAudio.Plugins.Ratatouille/26.08", "stats": [{"date": "2026/10/03", "arches": {"x86_64": [7, 0]}}]}
+{"ref": "org.freedesktop.LinuxAudio.Plugins.Ratatouille/26.08", "stats": [{"date": "2026/10/03", "arches": {"x86_64": [7, 0]}}, {"date": "2026/10/04", "arches": {"aarch64": [2, 0], "x86_64": [28, 0]}}]}
