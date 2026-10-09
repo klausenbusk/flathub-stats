@@ -1,1 +1,1 @@
-{"ref": "org.freedesktop.Platform.GL.nvidia-615-78-08/1.4", "stats": [{"date": "2026/10/07", "arches": {"x86_64": [26, 0]}}]}
+{"ref": "org.freedesktop.Platform.GL.nvidia-615-78-08/1.4", "stats": [{"date": "2026/10/07", "arches": {"x86_64": [26, 0]}}, {"date": "2026/10/08", "arches": {"aarch64": [2, 0], "x86_64": [764, 0]}}]}
