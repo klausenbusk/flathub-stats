@@ -1,1 +1,1 @@
-{"ref": "io.github.Duecki1.CalibRaw", "stats": [{"date": "2026/10/14", "arches": {"aarch64": [2, 0], "x86_64": [25, 0]}}, {"date": "2026/10/15", "arches": {"aarch64": [3, 0], "x86_64": [45, 0]}}]}
+{"ref": "io.github.Duecki1.CalibRaw", "stats": [{"date": "2026/10/14", "arches": {"aarch64": [2, 0], "x86_64": [25, 0]}}, {"date": "2026/10/15", "arches": {"aarch64": [3, 0], "x86_64": [45, 0]}}, {"date": "2026/10/16", "arches": {"x86_64": [118, 35]}}]}
