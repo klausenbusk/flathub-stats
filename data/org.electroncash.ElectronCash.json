@@ -1,1 +1,1 @@
-{"ref": "org.electroncash.ElectronCash", "stats": [{"date": "2026/10/21", "arches": {"x86_64": [2, 0]}}]}
+{"ref": "org.electroncash.ElectronCash", "stats": [{"date": "2026/10/21", "arches": {"x86_64": [2, 0]}}, {"date": "2026/10/22", "arches": {"aarch64": [2, 0]}}]}
