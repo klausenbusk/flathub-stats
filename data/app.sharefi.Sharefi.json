@@ -1,1 +1,1 @@
-{"ref": "app.sharefi.Sharefi", "stats": [{"date": "2026/10/26", "arches": {"x86_64": [8, 0]}}, {"date": "2026/10/27", "arches": {"x86_64": [23, 0]}}]}
+{"ref": "app.sharefi.Sharefi", "stats": [{"date": "2026/10/26", "arches": {"x86_64": [8, 0]}}, {"date": "2026/10/27", "arches": {"x86_64": [23, 0]}}, {"date": "2026/10/28", "arches": {"aarch64": [2, 0], "x86_64": [29, 6]}}]}
