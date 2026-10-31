@@ -1,1 +1,1 @@
-{"ref": "net.froemling.bombsquad", "stats": [{"date": "2026/10/29", "arches": {"aarch64": [4, 0], "x86_64": [42, 0]}}]}
+{"ref": "net.froemling.bombsquad", "stats": [{"date": "2026/10/29", "arches": {"aarch64": [4, 0], "x86_64": [42, 0]}}, {"date": "2026/10/30", "arches": {"aarch64": [4, 0], "x86_64": [139, 12]}}]}
