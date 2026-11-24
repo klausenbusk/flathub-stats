@@ -1,1 +1,1 @@
-{"ref": "dev.eltonarodrigues.panapidas", "stats": [{"date": "2026/11/22", "arches": {"x86_64": [8, 0]}}]}
+{"ref": "dev.eltonarodrigues.panapidas", "stats": [{"date": "2026/11/22", "arches": {"x86_64": [8, 0]}}, {"date": "2026/11/23", "arches": {"aarch64": [2, 0], "x86_64": [9, 0]}}]}
