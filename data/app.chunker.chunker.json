@@ -1,1 +1,1 @@
-{"ref": "app.chunker.chunker", "stats": [{"date": "2026/11/25", "arches": {"x86_64": [22, 0]}}]}
+{"ref": "app.chunker.chunker", "stats": [{"date": "2026/11/25", "arches": {"x86_64": [22, 0]}}, {"date": "2026/11/26", "arches": {"aarch64": [4, 0], "x86_64": [29, 2]}}]}
